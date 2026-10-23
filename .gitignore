@@ -47,3 +47,6 @@ next-env.d.ts
 
 # Local temp files
 temp/
+
+# Prufbase waitlist (local storage for /api/waitlist)
+.data/

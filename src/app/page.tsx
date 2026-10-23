@@ -1,31 +1,45 @@
-import { ClosingCta } from "@/components/sites/trustmrr/closing-cta";
-import { CategoryChips } from "@/components/sites/trustmrr/category-chips";
-import { Hero } from "@/components/sites/trustmrr/hero";
-import { Leaderboard } from "@/components/sites/trustmrr/leaderboard";
-import { NewsletterPopup } from "@/components/sites/trustmrr/newsletter-popup";
-import { SiteFooter } from "@/components/sites/trustmrr/site-footer";
-import { SponsorRails } from "@/components/sites/trustmrr/sponsor-rails";
-import { TweetFeed } from "@/components/sites/trustmrr/tweet-feed";
+import { Audiences } from "@/components/sites/prufbase/audiences";
+import { CardStrip } from "@/components/sites/prufbase/card-strip";
+import { ClosingCta } from "@/components/sites/prufbase/closing-cta";
+import { forSale, recentlyVerified } from "@/components/sites/prufbase/data";
+import { Faq } from "@/components/sites/prufbase/faq";
+import { Hero } from "@/components/sites/prufbase/hero";
+import { HowItWorks } from "@/components/sites/prufbase/how-it-works";
+import { Leaderboard } from "@/components/sites/prufbase/leaderboard";
+import { Problem } from "@/components/sites/prufbase/problem";
+import { Providers } from "@/components/sites/prufbase/providers";
+import { Security } from "@/components/sites/prufbase/security";
+import { SiteFooter } from "@/components/sites/prufbase/site-footer";
+import { SponsorRails } from "@/components/sites/prufbase/sponsor-rails";
 
 export default function Home() {
   return (
     <>
       <SponsorRails />
-      <div className="bg-muted">
+      <div className="bg-background">
         <div className="lg:mx-[16.666%]">
           <main className="min-h-screen">
             <div className="container mx-auto max-w-5xl px-4 py-8 md:py-12">
               <Hero />
-              <Leaderboard />
-              <TweetFeed />
+              <div className="mt-8 space-y-2 text-left md:mt-12">
+                <CardStrip title="Недавно подтверждены" projects={recentlyVerified} />
+                <CardStrip title="Продаются" projects={forSale} />
+              </div>
+              <Problem />
+              <HowItWorks />
+              <div className="mt-16 md:mt-24">
+                <Leaderboard />
+              </div>
+              <Security />
+              <Audiences />
+              <Providers />
+              <Faq />
               <ClosingCta />
-              <CategoryChips />
             </div>
           </main>
           <SiteFooter />
         </div>
       </div>
-      <NewsletterPopup />
     </>
   );
 }
