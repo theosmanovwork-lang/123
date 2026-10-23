@@ -38,7 +38,7 @@ Evidence: `docs/design-references/linear/` (`info.json` = computed styles, CSS v
 | Aspect | Taken from Linear | Where |
 |---|---|---|
 | Canvas / panels | `#08090a` / `#0f1011`, hairlines `#ffffff14`, text `#f7f8f8` / `#8a8f98` | `.dark` tokens in `globals.css` |
-| Brand | indigo `#5e6ad2`, accent text `#828fff`, focus ring `#7170ff` (replaces the amber from the project export) | `--primary`, `--brand-ink` |
+| Brand | neutral monochrome accent: near-white `#e5e5e6` on dark, ink `#1c1d1f` on light, grey focus ring (Linear's indigo and the amber from the export were both dropped) | `--primary`, `--ring`, `--brand-ink` |
 | Font | Inter Variable (same OFL file Linear serves) with `cv01`, `ss03`; weights 510 / 590 | `src/app/fonts`, `--font-weight-*` |
 | Type | h1 64px / 510 / -0.022em, headings 48px, body 15px | `hero.tsx`, `section-heading.tsx` |
 | Buttons | pill CTA `#e5e5e6` -> `#fff` on hover, 5-layer shadow, 160ms `cubic-bezier(.25,.46,.45,.94)` | `waitlist-form.tsx`, `--default-transition-*` |
@@ -46,4 +46,4 @@ Evidence: `docs/design-references/linear/` (`info.json` = computed styles, CSS v
 | Section motion | soft blur-in tied to scroll (`animation-timeline: view()`, progressive enhancement) | `.reveal` |
 
 Not copied: Berkeley Mono and Tiempos (commercial fonts; numbers keep JetBrains Mono) and Linear's fixed glass header (this page has no header).
-To get the amber accent back, set `--primary`, `--ring`, `--chart-1` and `--brand-ink` in `globals.css`.
+To change the accent colour, set `--primary`, `--ring`, `--chart-1` and `--brand-ink` (dark and light blocks) in `globals.css`.

@@ -60,7 +60,7 @@
 
 /*
  * Theme borrowed from linear.app: #08090a canvas, #0f1011 panels, translucent white hairlines,
- * indigo #5e6ad2 brand, Inter Variable (cv01, ss03) at weights 510/590, 160ms ease-out-quad transitions.
+ * a neutral monochrome accent (near-white on dark, ink on light), Inter Variable (cv01, ss03) at weights 510/590, 160ms ease-out-quad transitions.
  * Dark is home, light is the guest theme.
  */
 :root {
@@ -70,7 +70,7 @@
   --card-foreground: #1c1d1f;
   --popover: #ffffff;
   --popover-foreground: #1c1d1f;
-  --primary: #5e6ad2;
+  --primary: #1c1d1f;
   --primary-foreground: #ffffff;
   --secondary: #f4f2f4;
   --secondary-foreground: #1c1d1f;
@@ -81,8 +81,8 @@
   --destructive: oklch(0.577 0.245 27.325);
   --border: #e4e2e4;
   --input: #dcdbdd;
-  --ring: #7170ff;
-  --chart-1: #5e6ad2;
+  --ring: #62666d;
+  --chart-1: #1c1d1f;
   --chart-2: oklch(0.556 0 0);
   --chart-3: oklch(0.439 0 0);
   --chart-4: oklch(0.371 0 0);
@@ -90,18 +90,18 @@
   --radius: 0.625rem;
   --sidebar: #f9f8f9;
   --sidebar-foreground: #1c1d1f;
-  --sidebar-primary: #5e6ad2;
+  --sidebar-primary: #1c1d1f;
   --sidebar-primary-foreground: #ffffff;
   --sidebar-accent: #f4f2f4;
   --sidebar-accent-foreground: #1c1d1f;
   --sidebar-border: #e4e2e4;
-  --sidebar-ring: #7170ff;
+  --sidebar-ring: #62666d;
   /* Linear-style primary call to action: inverse pill */
   --cta: #1c1d1f;
   --cta-hover: #3a3c41;
   --cta-foreground: #ffffff;
   /* readable indigo for text and chart strokes on this surface */
-  --brand-ink: #4b57c4;
+  --brand-ink: #1c1d1f;
 }
 
 .dark {
@@ -111,8 +111,8 @@
   --card-foreground: #f7f8f8;
   --popover: #0f1011;
   --popover-foreground: #f7f8f8;
-  --primary: #5e6ad2;
-  --primary-foreground: #ffffff;
+  --primary: #e5e5e6;
+  --primary-foreground: #08090a;
   --secondary: #141516;
   --secondary-foreground: #f7f8f8;
   --muted: #141516;
@@ -122,20 +122,20 @@
   --destructive: oklch(0.704 0.191 22.216);
   --border: #ffffff14;
   --input: #ffffff1a;
-  --ring: #7170ff;
-  --chart-1: #7170ff;
+  --ring: #8a8f98;
+  --chart-1: #e5e5e6;
   --sidebar: #0f1011;
   --sidebar-foreground: #f7f8f8;
-  --sidebar-primary: #5e6ad2;
-  --sidebar-primary-foreground: #ffffff;
+  --sidebar-primary: #e5e5e6;
+  --sidebar-primary-foreground: #08090a;
   --sidebar-accent: #141516;
   --sidebar-accent-foreground: #f7f8f8;
   --sidebar-border: #ffffff14;
-  --sidebar-ring: #7170ff;
+  --sidebar-ring: #8a8f98;
   --cta: #e5e5e6;
   --cta-hover: #ffffff;
   --cta-foreground: #08090a;
-  --brand-ink: #828fff;
+  --brand-ink: #d0d6e0;
 }
 
 @layer base {
@@ -153,8 +153,8 @@
     font-feature-settings: "cv01", "ss03";
   }
   ::selection {
-    background: color-mix(in lch, #5e6ad2, black 10%);
-    color: #fff;
+    background: color-mix(in srgb, var(--foreground) 22%, transparent);
+    color: var(--foreground);
   }
 }
 
