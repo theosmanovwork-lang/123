@@ -1,0 +1,1534 @@
+{
+ "sponsors": [
+  {
+   "href": "https://higgsfield.ai/marclou?utm_source=trustmrr&utm_medium=referral&utm_campaign=sponsor_card",
+   "title": "Higgsfield",
+   "desc": "Create AI videos and images with Higgsfield",
+   "img": "https://www.google.com/s2/favicons?domain=higgsfield.ai&sz=64",
+   "x": 16,
+   "y": 6558,
+   "w": 208,
+   "h": 161,
+   "bg": "rgb(230, 255, 240)",
+   "border": "oklab(0.205 0 0 / 0.1)"
+  },
+  {
+   "href": "https://higgsfield.ai/marclou?utm_source=trustmrr&utm_medium=referral&utm_campaign=sponsor_card",
+   "title": "Higgsfield",
+   "desc": "Create AI videos and images with Higgsfield",
+   "img": "https://www.google.com/s2/favicons?domain=higgsfield.ai&sz=64",
+   "x": 16,
+   "y": 6735,
+   "w": 208,
+   "h": 161,
+   "bg": "rgb(230, 255, 240)",
+   "border": "oklab(0.205 0 0 / 0.1)"
+  },
+  {
+   "href": "https://hermoso.ai/?utm_source=trustmrr&utm_medium=referral&utm_campaign=sponsor_card",
+   "title": "Hermoso.ai",
+   "desc": "Best price for AI video & images 🚀 no markup on models!",
+   "img": "https://hermoso.ai/assets/brand/apple-touch-icon.png",
+   "x": 16,
+   "y": 6912,
+   "w": 208,
+   "h": 161,
+   "bg": "rgb(229, 246, 254)",
+   "border": "oklab(0.205 0 0 / 0.1)"
+  },
+  {
+   "href": "https://blogseo.io/?utm_source=trustmrr&utm_medium=referral&utm_campaign=sponsor_card",
+   "title": "BlogSEO",
+   "desc": "SEO on autopilot: Rank #1 on Google & ChatGPT (Try for free, 2-minute setup)",
+   "img": "https://www.google.com/s2/favicons?domain=blogseo.io&sz=64",
+   "x": 16,
+   "y": 7088,
+   "w": 208,
+   "h": 161,
+   "bg": "rgb(255, 247, 228)",
+   "border": "oklab(0.205 0 0 / 0.1)"
+  },
+  {
+   "href": "https://higgsfield.ai/marclou?utm_source=trustmrr&utm_medium=referral&utm_campaign=sponsor_card",
+   "title": "Higgsfield",
+   "desc": "Create AI videos and images with Higgsfield",
+   "img": "https://www.google.com/s2/favicons?domain=higgsfield.ai&sz=64",
+   "x": 16,
+   "y": 7265,
+   "w": 208,
+   "h": 161,
+   "bg": "rgb(230, 255, 240)",
+   "border": "oklab(0.205 0 0 / 0.1)"
+  },
+  {
+   "href": "https://higgsfield.ai/marclou?utm_source=trustmrr&utm_medium=referral&utm_campaign=sponsor_card",
+   "title": "Higgsfield",
+   "desc": "Create AI videos and images with Higgsfield",
+   "img": "https://www.google.com/s2/favicons?domain=higgsfield.ai&sz=64",
+   "x": 1216,
+   "y": 6558,
+   "w": 208,
+   "h": 161,
+   "bg": "rgb(230, 255, 240)",
+   "border": "oklab(0.205 0 0 / 0.1)"
+  },
+  {
+   "href": "https://fuseai.com/?utm_source=trustmrr&utm_medium=referral&utm_campaign=sponsor_card",
+   "title": "Fuse AI",
+   "desc": "10x revenue with AI agents built to find, enrich, and engage customers.",
+   "img": "https://www.google.com/s2/favicons?domain=fuseai.com&sz=64",
+   "x": 1216,
+   "y": 6912,
+   "w": 208,
+   "h": 161,
+   "bg": "rgb(249, 230, 255)",
+   "border": "oklab(0.205 0 0 / 0.1)"
+  },
+  {
+   "href": "https://higgsfield.ai/marclou?utm_source=trustmrr&utm_medium=referral&utm_campaign=sponsor_card",
+   "title": "Higgsfield",
+   "desc": "Create AI videos and images with Higgsfield",
+   "img": "https://www.google.com/s2/favicons?domain=higgsfield.ai&sz=64",
+   "x": 1216,
+   "y": 7088,
+   "w": 208,
+   "h": 161,
+   "bg": "rgb(230, 255, 240)",
+   "border": "oklab(0.205 0 0 / 0.1)"
+  }
+ ],
+ "cards": [
+  {
+   "href": "/startup/preloved-ai",
+   "name": "PreLoved AI",
+   "text": [
+    "FOR SALE",
+    "PreLoved AI",
+    "Artificial Intelligence",
+    "REVENUE",
+    "$3.5k",
+    "PRICE",
+    "$185k",
+    "MULTIPLE",
+    "4.4x"
+   ],
+   "img": "https://www.appatar.io/auroraapps.Vinted-Co-Pilot/large",
+   "y": 456
+  },
+  {
+   "href": "/startup/veloris-llc",
+   "name": "Agent Media",
+   "text": [
+    "FOR SALE",
+    "Agent Media",
+    "Artificial Intelligence",
+    "REVENUE",
+    "$2.4k",
+    "PRICE",
+    "$50k",
+    "MULTIPLE",
+    "1.7x"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/veloris-llc-bd270bd8-79e9-4f36-aeb8-4097baf0da80.png",
+   "y": 456
+  },
+  {
+   "href": "/startup/fairmoney-loan-debt-tracker",
+   "name": "Fairmoney: Loan & Debt Tracker",
+   "text": [
+    "FOR SALE",
+    "Fairmoney: Loan & Debt Tracker",
+    "Fintech",
+    "REVENUE",
+    "$97",
+    "PRICE",
+    "$5k",
+    "MULTIPLE",
+    "4.3x"
+   ],
+   "img": "https://www.appatar.io/com.easyloantracker/large",
+   "y": 456
+  },
+  {
+   "href": "/startup/hidden-business-59",
+   "name": "Hidden Business",
+   "text": [
+    "FOR SALE",
+    "Hidden Business",
+    "Artificial Intelligence",
+    "REVENUE",
+    "$5k",
+    "PRICE",
+    "$180k",
+    "MULTIPLE",
+    "3.0x"
+   ],
+   "img": "/_next/static/media/anonymous_startup_icon.c2df1b6b.png",
+   "y": 456
+  },
+  {
+   "href": "/startup/diskzy",
+   "name": "Diskzy - See where your Mac's space went.",
+   "text": [
+    "FOR SALE",
+    "Diskzy - See where your Mac's space went.",
+    "Utilities",
+    "REVENUE",
+    "$82",
+    "PRICE",
+    "$5k",
+    "MULTIPLE",
+    "5.1x"
+   ],
+   "img": "https://prod-dodo-backend-live-mode.s3.ap-south-1.amazonaws.com/businesses/bus_0NkD4aCqVTKOABC2WUExK/brands/brnd_0NpLHGwmphoeH23is1CSU/1eccbf72-158b-4855-b8f9-87d8fe7b7f8c",
+   "y": 456
+  },
+  {
+   "href": "/startup/incoming-call",
+   "name": "Incoming Call",
+   "text": [
+    "FOR SALE",
+    "Incoming Call",
+    "Entertainment",
+    "REVENUE",
+    "$2.9k",
+    "PRICE",
+    "$50k",
+    "MULTIPLE",
+    "1.4x"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/incoming-call-ffdc06f9-a75b-488e-a528-d02aa4d63b4e.png",
+   "y": 456
+  },
+  {
+   "href": "/startup/builtbyme",
+   "name": "BuiltByMe",
+   "text": [
+    "FOR SALE",
+    "BuiltByMe",
+    "Developer Tools",
+    "REVENUE",
+    "$49",
+    "PRICE",
+    "$3k",
+    "MULTIPLE",
+    "5.1x"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/builtbyme-c4744b0b-9bfb-4d5e-8f3b-4d7f89890a63.jpg",
+   "y": 456
+  },
+  {
+   "href": "/startup/inxanity-labs",
+   "name": "INXANITY Labs — Browser Gaming & AI Modding Platform",
+   "text": [
+    "FOR SALE",
+    "INXANITY Labs — Browser Gaming & AI Modding Platform",
+    "Community",
+    "REVENUE",
+    "$1.3k",
+    "PRICE",
+    "$60k",
+    "MULTIPLE",
+    "3.9x"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/inxanity-labs-36c9ed84-2e4c-466e-9932-88fa7937f102.png",
+   "y": 456
+  },
+  {
+   "href": "/startup/kaja-ai",
+   "name": "Kaja AI",
+   "text": [
+    "FOR SALE",
+    "Kaja AI",
+    "Artificial Intelligence",
+    "REVENUE",
+    "$169",
+    "PRICE",
+    "$9k",
+    "MULTIPLE",
+    "4.4x"
+   ],
+   "img": "https://www.appatar.io/com.mans1233.socrates/large",
+   "y": 456
+  },
+  {
+   "href": "/startup/zerano-club",
+   "name": "Zerano Club",
+   "text": [
+    "FOR SALE",
+    "Zerano Club",
+    "Analytics",
+    "REVENUE",
+    "$3.6k",
+    "PRICE",
+    "$20k",
+    "MULTIPLE",
+    "0.5x"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/zerano-club-39410953-342f-44f4-9908-1bc290847bff.png",
+   "y": 456
+  },
+  {
+   "href": "/startup/static-forms",
+   "name": "Static Forms",
+   "text": [
+    "FOR SALE",
+    "Static Forms",
+    "Developer Tools",
+    "REVENUE",
+    "$945",
+    "PRICE",
+    "$40k",
+    "MULTIPLE",
+    "3.5x"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/static-forms-ddfe1116-68da-476d-9a7b-036f1cda8d4c.png",
+   "y": 618
+  },
+  {
+   "href": "/startup/veloris-llc",
+   "name": "Agent Media",
+   "text": [
+    "FOR SALE",
+    "Agent Media",
+    "Artificial Intelligence",
+    "REVENUE",
+    "$2.4k",
+    "PRICE",
+    "$50k",
+    "MULTIPLE",
+    "1.7x"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/veloris-llc-bd270bd8-79e9-4f36-aeb8-4097baf0da80.png",
+   "y": 618
+  },
+  {
+   "href": "/startup/linkerflow",
+   "name": "Linkerflow",
+   "text": [
+    "FOR SALE",
+    "Linkerflow",
+    "Marketing",
+    "REVENUE",
+    "$660",
+    "PRICE",
+    "$37k",
+    "MULTIPLE",
+    "4.7x"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xUHpqajhMY3N4WGcyRjhwfGZsX2xpdmVfUm9TdWNKaWd2Rmc5M3VhT2cyOUJrakN20033JlmJrU",
+   "y": 618
+  },
+  {
+   "href": "/startup/anonymous-startup-74",
+   "name": "Anonymous Startup",
+   "text": [
+    "FOR SALE",
+    "Anonymous Startup",
+    "Mobile Apps",
+    "REVENUE",
+    "$36k",
+    "PRICE",
+    "$1.2M",
+    "MULTIPLE",
+    "2.8x"
+   ],
+   "img": "/_next/static/media/anonymous_startup_icon.c2df1b6b.png",
+   "y": 618
+  },
+  {
+   "href": "/startup/zerogpt-plus",
+   "name": "ZeroGPT Plus",
+   "text": [
+    "FOR SALE",
+    "ZeroGPT Plus",
+    "Education",
+    "REVENUE",
+    "$4.4k",
+    "PRICE",
+    "$150k",
+    "MULTIPLE",
+    "2.9x"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/paddle-business-31-2238db6f-adce-4a89-8390-c84927099623.jpg",
+   "y": 618
+  },
+  {
+   "href": "/startup/zerano-club",
+   "name": "Zerano Club",
+   "text": [
+    "FOR SALE",
+    "Zerano Club",
+    "Analytics",
+    "REVENUE",
+    "$3.6k",
+    "PRICE",
+    "$20k",
+    "MULTIPLE",
+    "0.5x"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/zerano-club-39410953-342f-44f4-9908-1bc290847bff.png",
+   "y": 618
+  },
+  {
+   "href": "/startup/hidden-business-59",
+   "name": "Hidden Business",
+   "text": [
+    "FOR SALE",
+    "Hidden Business",
+    "Artificial Intelligence",
+    "REVENUE",
+    "$5k",
+    "PRICE",
+    "$180k",
+    "MULTIPLE",
+    "3.0x"
+   ],
+   "img": "/_next/static/media/anonymous_startup_icon.c2df1b6b.png",
+   "y": 618
+  },
+  {
+   "href": "/startup/aarivi",
+   "name": "Aarivi",
+   "text": [
+    "FOR SALE",
+    "Aarivi",
+    "Artificial Intelligence",
+    "REVENUE",
+    "$1.7k",
+    "PRICE",
+    "$18k",
+    "MULTIPLE",
+    "0.9x"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/aarivi-43965047-e0a0-4e61-af9c-eb627f991099.png",
+   "y": 618
+  },
+  {
+   "href": "/startup/wave",
+   "name": "Wave → Instagram Outreach",
+   "text": [
+    "FOR SALE",
+    "Wave → Instagram Outreach",
+    "Marketing",
+    "REVENUE",
+    "$5.7k",
+    "PRICE",
+    "$75k",
+    "MULTIPLE",
+    "1.1x"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/wave-e7d855d6-c6a5-47ee-a8c1-b577e1d00c85.jpg",
+   "y": 618
+  },
+  {
+   "href": "/startup/lista",
+   "name": "Lista: AI Crosslisting & Tools",
+   "text": [
+    "FOR SALE",
+    "Lista: AI Crosslisting & Tools",
+    "Artificial Intelligence",
+    "REVENUE",
+    "$916",
+    "PRICE",
+    "$50k",
+    "MULTIPLE",
+    "4.5x"
+   ],
+   "img": "https://www.appatar.io/com.luis.CrosslistingAppV1/large",
+   "y": 618
+  }
+ ],
+ "rows": [
+  {
+   "href": "/startup/stan",
+   "cells": [
+    "🥇",
+    "Stan | Stan enables people to make living and work for themselves.",
+    "Vitalii Dodonov",
+    "$3,569,654",
+    "_"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xTXlnNkdDY0N2cGd5d1RufGZsX2xpdmVfUDcwUmxUUjZuUFR0RDhrS2ZpMEI3bkZN00QXGw5NKb",
+   "founderHref": "/founder/vitaliidodonov",
+   "founderImg": "https://pbs.twimg.com/profile_images/2039416894399135744/iXrISvqX.jpg"
+  },
+  {
+   "href": "/startup/chatbase",
+   "cells": [
+    "🥈",
+    "Chatbase | Create an AI chatbot for your business. Charge during checkout.",
+    "Yasser Elsaid",
+    "$863,632",
+    "_"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xTVhTYUNBV1dvUEpGTDNRfGZsX2xpdmVfVGI4eHZISUgwbTdTVGM3QkpMb1ZpNGNy00VZRFwqwN",
+   "founderHref": "/founder/yasser_elsaid_",
+   "founderImg": "https://lh3.googleusercontent.com/a/ACg8ocLLDQgS6eSKmT_vCKnGPPGeTmU18WHvAKmpSbEKuk4zRiNTbg=s96-c"
+  },
+  {
+   "href": "/startup/superfruits",
+   "cells": [
+    "🥉",
+    "GojiberryAI | GojiberryAI is an AI-powered GTM platform that helps B2B teams find high-intent prospects and turn buying signals into conversations.",
+    "romàn czerny",
+    "$424,368",
+    "_"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xUmdVZEEwN2Q3ZWk0MFZBfGZsX2xpdmVfbk9iT2tISVNuNnBDTUdlRjU2cUVYdGZs00qX6c7jEH",
+   "founderHref": "/founder/romanbuildsaas",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6949a1380b7e01eac49e558b/47241aaa-26d3-4064-bf71-60300cecf1f7.jpg"
+  },
+  {
+   "href": "/startup/postiz",
+   "cells": [
+    "4",
+    "Postiz | Postiz is the ultimate agentic social media scheduler tool",
+    "Nevo David",
+    "$301,494",
+    "45%"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xUGcyTU5MbzZxMVFSM0w1fGZsX2xpdmVfTWFMVHA5c2IzUHpTRzNzTTlNaW5LZ3Zt00Jaoqr9tH",
+   "founderHref": "/founder/wickedguro",
+   "founderImg": "https://pbs.twimg.com/profile_images/2089387713976041474/I8Jv6dD0.jpg"
+  },
+  {
+   "href": "/startup/anonymous-startup-25",
+   "cells": [
+    "5",
+    "A | Anonymous Startup",
+    "Andrei Orsich",
+    "$280,039",
+    "44%"
+   ],
+   "img": "https://pbs.twimg.com/profile_images/2095473646768705537/ncE7gUYy.jpg",
+   "founderHref": "/founder/anorsich",
+   "founderImg": "https://pbs.twimg.com/profile_images/2095473646768705537/ncE7gUYy.jpg"
+  },
+  {
+   "href": "/startup/1lookup",
+   "cells": [
+    "6",
+    "1Lookup | FOR SALE | The #1 tool for validating phone, email and IP data in real time. All through one powerful API.",
+    "Robby Frank",
+    "$266,949",
+    "13%"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/voicedrop-e0cd9164-7c15-4b9c-845e-68721632b2a7.jpg",
+   "founderHref": "/founder/robbyfrank",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/695baa5699091e5d6bb39f29/eadc72ef-6b1f-4a72-88cd-e18555ca6950.png"
+  },
+  {
+   "href": "/startup/kl23iod2mdka",
+   "cells": [
+    "7",
+    "P | Private Venture | B2B workforce-management SaaS",
+    "david",
+    "$248,341",
+    "1%"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6a79d62d5a655e95c97f7dd5/f1c5eb65-c4ab-45c2-98e4-8f707f8fdde3.jpg",
+   "founderHref": "/founder/gregorian909",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6a79d62d5a655e95c97f7dd5/f1c5eb65-c4ab-45c2-98e4-8f707f8fdde3.jpg"
+  },
+  {
+   "href": "/startup/rezi",
+   "cells": [
+    "8",
+    "Rezi | Most people agree this is the best resume builder in the world. We have about 1M new users every year. Rezi Enterprise, a new and growing product, supports over 300 organizations, including 1 fortune 500, and multiple universities. We are now working to allow companies a way to connect with job seekers, and bridge the gap between company and job seeker while bringing transparency to job seekers.",
+    "Jacob Jacquet",
+    "$245,313",
+    "3%"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xNjU2azhFZDZLMDJLdlRJfGZsX2xpdmVfVk1GTlpteDVxc2NYSHZuSk1uYTMySlJY00gfSiGyIm",
+   "founderHref": "/founder/jacob_jacquet",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/696c304ceb969603729947c8/3360aa5e-3109-42c7-b28f-ce87ce382ab2.jpg"
+  },
+  {
+   "href": "/startup/kibu",
+   "cells": [
+    "9",
+    "Kibu | Content, compliance, and EHR (Electronic Health Record) software platform built specifically for provider organizations serving people with intellectual and developmental disabilities (I/DD). It helps these organizations teach people with special needs while managing regulatory compliance, documentation, and care delivery across hundreds of organizations and 48 states.",
+    "Daniel Caridi",
+    "$234,319",
+    "_"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xS0prYTNMMHVzY1lYblM1fGZsX2xpdmVfakNMWHVobWp5VW1hRHVJTmxQS2pmbDFL00zNXDL6Lx",
+   "founderHref": "/founder/ddcaridi",
+   "founderImg": "https://lh3.googleusercontent.com/a/ACg8ocKJBpo4KpCpdSs3rA07ys-n2lAci0g-nIApmMCE4BedsRa8r_0W=s96-c"
+  },
+  {
+   "href": "/startup/stealth-venture-3",
+   "cells": [
+    "10",
+    "S | Stealth Venture",
+    "Simon",
+    "$209,459",
+    "3%"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6a3a3b2faf2645f1fd161c8b/39fe89c9-3691-4538-b420-7ac04f39a1fd.jpg",
+   "founderHref": "/founder/nomistair",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6a3a3b2faf2645f1fd161c8b/39fe89c9-3691-4538-b420-7ac04f39a1fd.jpg"
+  },
+  {
+   "href": "/startup/cometly",
+   "cells": [
+    "11",
+    "Cometly | Marketing attribution and analytics for SaaS companies. Use AI to chat with your ads data.",
+    "Grant Cooper",
+    "$198,643",
+    "3%"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xSGd3dktCd0VNMUVIckwzfGZsX2xpdmVfUlJWa0pvdnFDakw1ejFDbWlKOXljbUdR00Day9e6iG",
+   "founderHref": "/founder/heygrantcooper",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6974137057cc263dac8c9056/cf151387-eabe-42f9-9e72-7c1e9ff20e84.png"
+  },
+  {
+   "href": "/startup/brand-on-demand-inc",
+   "cells": [
+    "12",
+    "Brand On Demand, Inc. | Supliful is an all-in-one platform for Creators to launch and operate a scalable CPG brand. Our approach unifies the entire business cycle – from product selection all the way through e-commerce enablement and order fulfillment – into a single digital platform with no upfront costs. We charge customers at the time they make the purchase.",
+    "Martins Lasmanis",
+    "$180,995",
+    "1%"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xQVRSWHZIS0J1a29Ob3lyfGZsX2xpdmVfV2pySWhsN0MweDFZZ20wTE9lYTd0MEpV00RLZZopWY",
+   "founderHref": "/founder/martinlasmanis",
+   "founderImg": "https://pbs.twimg.com/profile_images/1983943393391894528/JeGSQfPN.jpg"
+  },
+  {
+   "href": "/startup/hidden-business-12",
+   "cells": [
+    "13",
+    "H | Hidden Business",
+    "Killian",
+    "$173,164",
+    "0%"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/69626c10fa04672a3dbdc2fc/f4966dda-0c32-490a-8a95-512b1e3f58f4.jpg",
+   "founderHref": "/founder/sowakillian",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/69626c10fa04672a3dbdc2fc/f4966dda-0c32-490a-8a95-512b1e3f58f4.jpg"
+  },
+  {
+   "href": "/startup/medical-practice-medical-consulting-agency",
+   "cells": [
+    "14",
+    "A | Anonymous Startup | Hormone Prescribing service in UK & Operations/Automation Consulting Agency",
+    "Haych",
+    "$168,725",
+    "1%"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/698ca3bc0c53a853abe9c167/f3fdb01b-e02b-45aa-a273-baab2616db65.png",
+   "founderHref": "/founder/consumedenough",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/698ca3bc0c53a853abe9c167/f3fdb01b-e02b-45aa-a273-baab2616db65.png"
+  },
+  {
+   "href": "/startup/aeo-engine",
+   "cells": [
+    "15",
+    "AEO Engine | The AI SEO agency that makes you the answer in AI Overviews, ChatGPT, and Google.",
+    "Vijay Jacob",
+    "$167,833",
+    "45%"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/aeo-engine-d776b2e1-342b-48d8-9fd6-a37ede4ea984.png",
+   "founderHref": "/founder/vc_jacob",
+   "founderImg": "https://pbs.twimg.com/profile_images/1992899961185316864/P_BIRk2j.jpg"
+  },
+  {
+   "href": "/startup/online-edtech",
+   "cells": [
+    "16",
+    "C | Confidential Startup | FOR SALE | Profitable online language learning platform combining live 1-on-1 tutoring with AI-powered speaking practice, personalized learning and learner analytics.",
+    "ht",
+    "$156,236",
+    "9%"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6aaaadff201b0c464ecf0c36/a8439cb5-0bad-4552-852d-846467981bb6.jpg",
+   "founderHref": "/founder/dnd",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6aaaadff201b0c464ecf0c36/a8439cb5-0bad-4552-852d-846467981bb6.jpg"
+  },
+  {
+   "href": "/startup/stealth-company-17",
+   "cells": [
+    "17",
+    "S | Stealth Company",
+    "Saad",
+    "$135,899",
+    "_"
+   ],
+   "img": "https://pbs.twimg.com/profile_images/1983971926578958337/J3uVNFda.jpg",
+   "founderHref": "/founder/saadmarkets",
+   "founderImg": "https://pbs.twimg.com/profile_images/1983971926578958337/J3uVNFda.jpg"
+  },
+  {
+   "href": "/startup/prosp",
+   "cells": [
+    "18",
+    "PROSP | FOR SALE | Automate your LinkedIn Outreach with AI",
+    "Yann | Prosp.ai",
+    "$128,005",
+    "_"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xUnlhTEgyU20xUWFPZHBEfGZsX2xpdmVfbWNmRVVnMTY4OXdIUENUV1lGTmlIT2JC00ih1DDzpc",
+   "founderHref": "/founder/yanndine",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6949617bfe87a0b39bfee18a/c86371d5-866c-45c5-a87a-995fe4f78da5.png"
+  },
+  {
+   "href": "/startup/windmill-growth-llc",
+   "cells": [
+    "19",
+    "Windmill Growth, LLC | Windmill provides marketing services to help amplify personal brands.",
+    "Ben Buaron",
+    "$118,447",
+    "1%"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xUEdqdzJQMlV4TW5oSGZyfGZsX2xpdmVfeVRKdWFWMXRuV09aMllWU2REdzQyZFJU00ydEl1Bv4",
+   "founderHref": "/founder/benbuaron_",
+   "founderImg": "https://pbs.twimg.com/profile_images/2098259156935274503/nTFGqkf0.jpg"
+  },
+  {
+   "href": "/startup/upscale-system-llc",
+   "cells": [
+    "20",
+    "Upscale System LLC | We sell CRM and Lead generation softwares.",
+    "Warm Inboxes",
+    "$104,971",
+    "17%"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xTXJuWEFHQ1YxM2ZhRE5QfGZsX2xpdmVfZkNIVHdpZHRURUEyRUpUR2M3d0J2N21400FeeAMYVy",
+   "founderHref": "/founder/warminboxes",
+   "founderImg": "https://pbs.twimg.com/profile_images/2023143197908897793/tulkJHW0.jpg"
+  },
+  {
+   "href": "/startup/unnamed-company-49",
+   "cells": [
+    "21",
+    "U | Unnamed Company",
+    "Eric Smith",
+    "$92,853",
+    "15%"
+   ],
+   "img": "https://lh3.googleusercontent.com/a/ACg8ocLvgaSac1yoLXG1wYLbgNHxCZhJm2mnXOo2x51yVDJIDp_S4kLf=s96-c",
+   "founderHref": "/founder/ericsmith1302",
+   "founderImg": "https://lh3.googleusercontent.com/a/ACg8ocLvgaSac1yoLXG1wYLbgNHxCZhJm2mnXOo2x51yVDJIDp_S4kLf=s96-c"
+  },
+  {
+   "href": "/startup/stealth-company-53",
+   "cells": [
+    "22",
+    "S | Stealth Company",
+    "MaxTalksTech",
+    "$87,115",
+    "80%"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6984935c28fe2e52c5bdc62d/0afe5f9a-155d-45b6-85d0-d76644c41816.jpg",
+   "founderHref": "/founder/maxtalkstech_",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6984935c28fe2e52c5bdc62d/0afe5f9a-155d-45b6-85d0-d76644c41816.jpg"
+  },
+  {
+   "href": "/startup/propgpt-ai-props-analysis",
+   "cells": [
+    "23",
+    "P | PropGPT: AI Props Analysis | Unleash the power of AI and elevate your betting game with PropGPT: AI Props Analysis, the first app of its kind dedicated to transforming how you approach sports betting.",
+    "Eyal Cohen",
+    "$84,061",
+    "1%"
+   ],
+   "img": "https://pbs.twimg.com/profile_images/1973102169483296768/n8zo1WL9.jpg",
+   "founderHref": "/founder/eyali__",
+   "founderImg": "https://pbs.twimg.com/profile_images/1973102169483296768/n8zo1WL9.jpg"
+  },
+  {
+   "href": "/startup/codedex",
+   "cells": [
+    "24",
+    "Codédex | Start your coding adventure ⋆˙⟡",
+    "Sonny Li",
+    "$83,418",
+    "3%"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xSVRJcFRMUExhYTlYSk9xfGZsX2xpdmVfckt1SkVmUTBtbkRFeWpEVVUyazJoNXdX00o2xgzLPR",
+   "founderHref": "/founder/sonnynomnom",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/69667eecfa04672a3dd676f0/0e0d30f7-d167-412c-b7ec-d1b6b66a31a7.jpg"
+  },
+  {
+   "href": "/startup/supergrow",
+   "cells": [
+    "25",
+    "Supergrow",
+    "Deven",
+    "$79,479",
+    "_"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/stealth-company-4-39f68695-e82a-410e-89fe-3dec65e9e2bd.png",
+   "founderHref": "/founder/devenbhooshan",
+   "founderImg": "https://pbs.twimg.com/profile_images/1943260775986139141/q7rhySEp.jpg"
+  },
+  {
+   "href": "/startup/llm-gateway",
+   "cells": [
+    "26",
+    "LLM Gateway | LLM Gateway is an open-source API gateway for Large Language Models (LLMs). It acts as a middleware between your applications and various LLM providers, allowing you to: - Route requests to multiple LLM providers (OpenAI, Anthropic, Google AI Studio, and others) - Manage API keys for different providers in one place - Track token usage and costs across all your LLM interactions - Analyze performance metrics to optimize your LLM usage",
+    "LLM Gateway",
+    "$78,764",
+    "_"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/llm-gateway-8aaa6619-a1d8-4266-86c7-2d6cdc6b33c4.png",
+   "founderHref": "/founder/llmgateway",
+   "founderImg": "https://pbs.twimg.com/profile_images/1933571362594922496/qQSzXTPZ.jpg"
+  },
+  {
+   "href": "/startup/omegleweb",
+   "cells": [
+    "27",
+    "O | OmegleWeb | OmegleWeb is a free Omegle alternative to talk to strangers with random video chat or text chat.",
+    "OmegleWeb",
+    "$73,085",
+    "13%"
+   ],
+   "img": "https://pbs.twimg.com/profile_images/2004457967328825344/gw-wcTrn.jpg",
+   "founderHref": "/founder/omegleweb",
+   "founderImg": "https://pbs.twimg.com/profile_images/2004457967328825344/gw-wcTrn.jpg"
+  },
+  {
+   "href": "/startup/ai-startup",
+   "cells": [
+    "28",
+    "P | Private Venture",
+    "Kevin Yubin",
+    "$70,350",
+    "1%"
+   ],
+   "img": "https://pbs.twimg.com/profile_images/1857458136355057667/uoMNGDS-.jpg",
+   "founderHref": "/founder/kevyubin",
+   "founderImg": "https://pbs.twimg.com/profile_images/1857458136355057667/uoMNGDS-.jpg"
+  },
+  {
+   "href": "/startup/white-glove-content",
+   "cells": [
+    "29",
+    "White Glove Content | FOR SALE | We provide a subscription-based content production service for creators and brands who want to publish faceless video content across online social media platforms, including YouTube, TikTok, Instagram Reels, and Facebook. Clients pay a recurring monthly or annual fee and receive fully produced, ready-to-upload video content — including scripting, AI voiceover, video editing, and thumbnail design. All deliverables are provided digitally via their personal dashboard and ready for auto-upload.",
+    "D | Dylan N.",
+    "$66,412",
+    "5%"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xVEZ6dkRSeFN3RjBJUnBNfGZsX2xpdmVfRURSaDUzakhwc0VZMjNiZEJHNlpXZDJj00G3iZu1cT",
+   "founderImg": "https://files.stripe.com/links/MDB8YWNjdF8xVEZ6dkRSeFN3RjBJUnBNfGZsX2xpdmVfRURSaDUzakhwc0VZMjNiZEJHNlpXZDJj00G3iZu1cT"
+  },
+  {
+   "href": "/startup/speel-co",
+   "cells": [
+    "30",
+    "Speel.co | FOR SALE | Use AI to generate realistic UGC-style videos and images for ads and socials. Launched in October, went from 0 to 1M ARR in 3 months.",
+    "Yann | Prosp.ai",
+    "$65,647",
+    "0%"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xUzFuWFRDcjMxZDVmU1QwfGZsX2xpdmVfRDNIMlBaUktjMG9mUDhtZDdwZjBBalIw003gO6nc4a",
+   "founderHref": "/founder/yanndine",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6949617bfe87a0b39bfee18a/c86371d5-866c-45c5-a87a-995fe4f78da5.png"
+  },
+  {
+   "href": "/startup/podawaa",
+   "cells": [
+    "31",
+    "Podawaa | Publish, grow, and own your audience on LinkedIn. Schedule content, engage your community, and turn analytics into results — all from one beautifully simple platform.",
+    "Tom Benattar",
+    "$64,695",
+    "0%"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xUFdFckxKdEdlZGFGRU9JfGZsX2xpdmVfbXNZQ1VCZUtvcnZrTFFIb0dpYlZHOE1R00P6dhAHR3",
+   "founderHref": "/founder/tombenattar",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6961884adbcfdd16e21e2ea9/b865ed29-6caf-4eb5-b82a-17a204451c8e.jpg"
+  },
+  {
+   "href": "/startup/project-a",
+   "cells": [
+    "32",
+    "Project A | FOR SALE | Project A is a popular AI-powered fortune-telling and astrology app with more than 50 Million downloads and 1M Active users. It provides personalized readings—including tarot, astrology, clairvoyance, and traditional coffee cup readings—by combining machine learning algorithms with ancient mystical practices.",
+    "ST",
+    "$63,263",
+    "3%"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/faladdin-59ac5e1a-0ed8-4667-b07c-3b77ba957e89.jpg",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/69ef058d6050ef6b518a24e5/6d035cfb-d057-430c-a46f-7ba7aaee5539.jpg"
+  },
+  {
+   "href": "/startup/promptwise",
+   "cells": [
+    "33",
+    "Promptwise | Generative AI SaaS platform. Our offer consists of generative AI products and tools, that focus on AI video, image and audio generation. The services are offered through subscriptions and top-ups. Customers are charged on checkout and the Stripe product backed functionality is activated instantly.",
+    "Mateo Starcevic Fili...",
+    "$62,761",
+    "23%"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xU3U3NktKNGpDQ1dyTENUfGZsX2xpdmVfbDFUbDdOWXFXY1p2RWZxSVB6bnJpWURt00fHe7cSi8",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6a6c073643c9b2ba22c91f6f/ceaa8539-c01c-4278-9917-ab4619a01247.jpg"
+  },
+  {
+   "href": "/startup/dropkiller",
+   "cells": [
+    "34",
+    "Dropkiller | We offer a subscription-based service that provides e-commerce entrepreneurs with access to product insights, ad creatives, and market analysis tools. Customers are charged at checkout or on a recurring monthly basis.",
+    "-",
+    "$60,179",
+    "_"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xUUZROWhHRzdnb0FyNDJifGZsX2xpdmVfWjFuZGRIalM1WkFvaVY5NXFLaWw3STRv00zxD8sf6O",
+   "founderImg": "https://files.stripe.com/links/MDB8YWNjdF8xUUZROWhHRzdnb0FyNDJifGZsX2xpdmVfWjFuZGRIalM1WkFvaVY5NXFLaWw3STRv00zxD8sf6O"
+  },
+  {
+   "href": "/startup/gotall",
+   "cells": [
+    "35",
+    "G | GoTall | FOR SALE | Superwall ios application",
+    "C | Chenglin",
+    "$57,777",
+    "4%"
+   ],
+   "img": null,
+   "founderImg": null
+  },
+  {
+   "href": "/startup/rankai",
+   "cells": [
+    "36",
+    "RankAI | Get search visitors autonomously. RankAI runs autonomously – getting you millions of web visitors from Google & ChatGPT. Investors from YCombinator, OpenAI, A16z, etc.",
+    "Dylan",
+    "$56,533",
+    "_"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/rankai-3232c015-1549-4047-9399-ba7c710e94b5.png",
+   "founderHref": "/founder/dyllan1020",
+   "founderImg": "https://pbs.twimg.com/profile_images/1776430263477923840/I_mFr3vf.jpg"
+  },
+  {
+   "href": "/startup/iker",
+   "cells": [
+    "37",
+    "Gomotion AI | One-click documentary videos for YouTube automation using AI",
+    "Iker",
+    "$55,950",
+    "63%"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/iker-25879dde-46ff-4916-bcb0-69c2370dcccc.png",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6ac066fb0215f771e277ee48/3b54bcff-ce1b-4e0c-a107-0ac42b393c67.jpg"
+  },
+  {
+   "href": "/startup/stealth-02",
+   "cells": [
+    "38",
+    "H | Hidden Business | O maior no Brasil :) siga: @renanhiramatsu",
+    "Renan Hiramatsu",
+    "$55,929",
+    "0%"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6a14fd686cd4627d0c9424b8/6a7fbd06-3fdf-4bc2-89e7-749bf697f7eb.jpg",
+   "founderHref": "/founder/appm8ker",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6a14fd686cd4627d0c9424b8/6a7fbd06-3fdf-4bc2-89e7-749bf697f7eb.jpg"
+  },
+  {
+   "href": "/startup/dataexpert-techcreator",
+   "cells": [
+    "39",
+    "DataExpert / TechCreator | DataExpert.io is a data engineering education company that empowers data engineers to level up their skills and become content creators as well!",
+    "Zach Wilson",
+    "$55,200",
+    "2%"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xTW9aYWREUDJQMEtraDd5fGZsX2xpdmVfbHVVMmU4S0xuT1RsbkVJOEhocEJCOU9000vi1RWK2P",
+   "founderHref": "/founder/eczachly",
+   "founderImg": "https://pbs.twimg.com/profile_images/2018533670752309248/OBXaDKVF.jpg"
+  },
+  {
+   "href": "/startup/adspirer",
+   "cells": [
+    "40",
+    "Adspirer | Adspirer is the AI-powered paid media agent for every business. We're building a future where any founder, marketer, or agency can manage their entire advertising operation — across Google, Meta, LinkedIn, and TikTok — through a simple conversation with their AI assistant.",
+    "Abhilash Mekala",
+    "$54,684",
+    "_"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/adspirer-fbc66f93-709b-4ef5-b9da-c2aa230f026e.png",
+   "founderHref": "/founder/abhilashreddi",
+   "founderImg": "https://pbs.twimg.com/profile_images/2008786143840792585/ct5rj_Ez.jpg"
+  },
+  {
+   "href": "/startup/traxy-ai",
+   "cells": [
+    "41",
+    "traxy.ai | We built your best ever lead list - based on social media listening.",
+    "Ben Buaron",
+    "$53,957",
+    "28%"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xU3ZMR3owR2tUZFZVbnBYfGZsX2xpdmVfZnRkTzNaSmIzNndDTXM0TUJaOUJhY3RJ00TzfzQwk1",
+   "founderHref": "/founder/benbuaron_",
+   "founderImg": "https://pbs.twimg.com/profile_images/2098259156935274503/nTFGqkf0.jpg"
+  },
+  {
+   "href": "/startup/boothie",
+   "cells": [
+    "42",
+    "Boothie: AI Photo Editor | FOR SALE | Boothie is an AI photo app for iOS and Android. Pick a look, upload a selfie, and get it re-rendered in that aesthetic: Canon G7X digicam, Kodak Gold film, vintage photobooth, night flash and more. A free editor with local filters is open to everyone; AI generations run on weekly subscriptions and credit packs. Live on iOS since June 2026, on Google Play since September 2026.",
+    "Keremcan Şeker",
+    "$52,185",
+    "38%"
+   ],
+   "img": "https://www.appatar.io/com.esmakerem.Boothie/large",
+   "founderHref": "/founder/keremcanseker_",
+   "founderImg": "https://lh3.googleusercontent.com/a/ACg8ocLRXSF2attJ-ThpO7eSwcNY0Ef_w_jNE02bK8YUX3YcVcK6HFtfpQ=s96-c"
+  },
+  {
+   "href": "/startup/post-bridge",
+   "cells": [
+    "43",
+    "POST BRIDGE | Post your content to multiple social media platforms at the same time, all-in one place.",
+    "jack friks",
+    "$49,811",
+    "5%"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/logos/post-bridge-943fbb4a-24ac-4ccf-a43b-398a41ee3b51.jpg",
+   "founderHref": "/founder/jackfriks",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/69455bd44afa32d78112ef65/4ad10c87-90e9-421d-8714-e9c55bb99100.jpg"
+  },
+  {
+   "href": "/startup/indexsy-consulting-ltd",
+   "cells": [
+    "44",
+    "Indexsy | Buy seo services from us",
+    "Jacky Chou (buying o...",
+    "$48,955",
+    "13%"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xN0dkc2VEcXpXY0dvUHE3fGZsX2xpdmVfWGp6d0xMeWNJa2Y3dmpZNjZLSHpyakFs00CmnGlCTQ",
+   "founderHref": "/founder/indexsy",
+   "founderImg": "https://pbs.twimg.com/profile_images/2018201079683461120/oA3wdBQN.jpg"
+  },
+  {
+   "href": "/startup/virtualjk",
+   "cells": [
+    "45",
+    "VirtualJK | A Replicant of James Kemp trained on $25 million of consulting sales. Will build you a $3k offer, give you a campaign for $3k per week and and the strategy for $3k a day",
+    "James Kemp",
+    "$48,658",
+    "4%"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xT1JqZUNGVDgydnljdzY2fGZsX2xpdmVfUUxYcXpJSk9xYUs4anBYdzliYVBMaXJM006zZV5QWI",
+   "founderHref": "/founder/jaaims",
+   "founderImg": "https://pbs.twimg.com/profile_images/1994255585416761347/jc3GvOqO.jpg"
+  },
+  {
+   "href": "/startup/vidai-llc",
+   "cells": [
+    "46",
+    "Vid.AI | FOR SALE | Turn any idea or script into ready-to-post videos that get views. AI generates voiceovers, visuals, and edits – all in minutes, no skills needed.",
+    "Priyam Raj",
+    "$46,424",
+    "20%"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xUTJONEdDZXRFWlo2R3ZPfGZsX2xpdmVfa1NER2dadXBGY0FBQWJLMVBUYkRWN21m00QLSX2GfH",
+   "founderHref": "/founder/priymrj",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/695d4352fa04672a3daad9fa/b149f0a1-99a2-432a-9a2a-92f39923e0f4.jpg"
+  },
+  {
+   "href": "/startup/laper",
+   "cells": [
+    "47",
+    "Laper | FOR SALE | Laper is an all-in-one creative OS for screenwriters, directors, and storyboard artists—Cursor, CapCut, and Figma for visual storytelling.",
+    "Laper",
+    "$46,389",
+    "6%"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xU0NJa0hJWVg3Zm5qb3E4fGZsX2xpdmVfaGJjTlJTTXdJcDFhSmhOSWxJVDBQS1Rq00Q06CswkO",
+   "founderHref": "/founder/laperforwriter",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6a1d4468c689a011c4014149/6706c470-451c-4d8e-bc48-c2e1ce3c0ac8.jpg"
+  },
+  {
+   "href": "/startup/nutria-9e3eaa",
+   "cells": [
+    "48",
+    "Nutria (9e3eaa) | FOR SALE | AI Calorie Tracker.",
+    "-",
+    "$46,238",
+    "1%"
+   ],
+   "img": "https://www.appatar.io/com.nutria25.nutriaapp/large",
+   "founderImg": "https://www.appatar.io/com.nutria25.nutriaapp/large"
+  },
+  {
+   "href": "/startup/conductor",
+   "cells": [
+    "49",
+    "Conductor | FOR SALE | The best QuickBooks Desktop & Enterprise API on the planet.",
+    "Danny Nemer",
+    "$44,124",
+    "10%"
+   ],
+   "img": "https://files.stripe.com/links/MDB8YWNjdF8xTFJqZTZCV0hLU1NRV2VOfGZsX2xpdmVfVU1lYnR2ZldudHNGcnVlWElxZDZlVWhE002UxhPqla",
+   "founderHref": "/founder/dannynemer",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/69828c2f28fe2e52c5b61217/72d4fad1-ef8b-48c8-bb07-ac55bb3d8237.jpg"
+  },
+  {
+   "href": "/startup/faceless-so",
+   "cells": [
+    "50",
+    "S | Stealth Venture | All-in-One tool to grow your faceless channel. Generate niche videos with AI from custom prompts, Reddit posts, and blogs. Auto-post to YouTube, TikTok, Instagram.",
+    "Shivansh Mehendiratt...",
+    "$44,116",
+    "23%"
+   ],
+   "img": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6a4acf5754a363a9ff88128a/af218e90-5885-47b3-b59d-7a88e20d3877.jpg",
+   "founderHref": "/founder/shivanshco",
+   "founderImg": "https://d21oz30g4w22sz.cloudfront.net/user-avatars/6a4acf5754a363a9ff88128a/af218e90-5885-47b3-b59d-7a88e20d3877.jpg"
+  }
+ ],
+ "heads": [
+  {
+   "t": "H1",
+   "txt": "The database of verified startup revenues",
+   "y": 104
+  },
+  {
+   "t": "H2",
+   "txt": "Recently listed",
+   "y": 424
+  },
+  {
+   "t": "H2",
+   "txt": "Best deals this week",
+   "y": 586
+  },
+  {
+   "t": "H2",
+   "txt": "Leaderboard",
+   "y": 817
+  },
+  {
+   "t": "H2",
+   "txt": "What's happening?",
+   "y": 4531
+  },
+  {
+   "t": "H2",
+   "txt": "The database of verified startup revenues",
+   "y": 5847
+  },
+  {
+   "t": "H2",
+   "txt": "Browse by category",
+   "y": 6076
+  },
+  {
+   "t": "H3",
+   "txt": "Navigation",
+   "y": 6457
+  },
+  {
+   "t": "H3",
+   "txt": "Browse startups",
+   "y": 6457
+  },
+  {
+   "t": "H3",
+   "txt": "API",
+   "y": 6457
+  },
+  {
+   "t": "H3",
+   "txt": "From the maker of TrustMRR",
+   "y": 6457
+  },
+  {
+   "t": "H3",
+   "txt": "Spot the Next Big Thing",
+   "y": 7142
+  }
+ ],
+ "foot": [
+  [
+   "Founder chats",
+   "/chat"
+  ],
+  [
+   "Buy/Sell Startups",
+   "/acquire"
+  ],
+  [
+   "Dashboard",
+   "/dashboard"
+  ],
+  [
+   "Affiliate program",
+   "/affiliate"
+  ],
+  [
+   "Feed",
+   "/feed"
+  ],
+  [
+   "Find Co-founders",
+   "/cofounders"
+  ],
+  [
+   "Search",
+   "/search"
+  ],
+  [
+   "All Startups",
+   "/startups"
+  ],
+  [
+   "Stats",
+   "/stats"
+  ],
+  [
+   "Revenue per LOC",
+   "/loc"
+  ],
+  [
+   "Domain Rating",
+   "/domain-rating"
+  ],
+  [
+   "Olympics",
+   "/championship"
+  ],
+  [
+   "Categories",
+   "/category"
+  ],
+  [
+   "Tech Stack",
+   "/tech"
+  ],
+  [
+   "Marketing Channels",
+   "/channels"
+  ],
+  [
+   "Recently Added",
+   "/recent"
+  ],
+  [
+   "Top 100 Startups",
+   "/"
+  ],
+  [
+   "Newsletter",
+   "/newsletter"
+  ],
+  [
+   "Why sell on TrustMRR",
+   "/why-sell-on-trustmrr"
+  ],
+  [
+   "About us",
+   "/about"
+  ],
+  [
+   "Compare marketplaces",
+   "/compare"
+  ],
+  [
+   "Compare startups",
+   "/compete"
+  ],
+  [
+   "$1 vs $1,000,000 Startup",
+   "/game"
+  ],
+  [
+   "APA, LOI, NDA templates",
+   "/legal-docs"
+  ],
+  [
+   "FAQ",
+   "/faq"
+  ],
+  [
+   "Terms of service",
+   "/terms"
+  ],
+  [
+   "Privacy policy",
+   "/privacy"
+  ],
+  [
+   "Support",
+   "/dashboard"
+  ],
+  [
+   "Telegram alerts",
+   "https://t.me/trust_mrr_bot"
+  ],
+  [
+   "Artificial Intelligence",
+   "/category/ai"
+  ],
+  [
+   "SaaS",
+   "/category/saas"
+  ],
+  [
+   "Developer Tools",
+   "/category/developer-tools"
+  ],
+  [
+   "Fintech",
+   "/category/fintech"
+  ],
+  [
+   "Marketing",
+   "/category/marketing"
+  ],
+  [
+   "E-commerce",
+   "/category/ecommerce"
+  ],
+  [
+   "Productivity",
+   "/category/productivity"
+  ],
+  [
+   "Design Tools",
+   "/category/design-tools"
+  ],
+  [
+   "No-Code",
+   "/category/no-code"
+  ],
+  [
+   "Analytics",
+   "/category/analytics"
+  ],
+  [
+   "Advertising platforms",
+   "/special-category/advertising-platforms"
+  ],
+  [
+   "OpenClaw",
+   "/special-category/openclaw"
+  ],
+  [
+   "Documentation",
+   "/docs/api"
+  ],
+  [
+   "List startups",
+   "/docs/api/list-startups"
+  ],
+  [
+   "Get startup",
+   "/docs/api/get-startup"
+  ],
+  [
+   "llms.txt",
+   "/llms.txt"
+  ],
+  [
+   "MCP server",
+   "/mcp"
+  ],
+  [
+   "Get API key",
+   "/dashboard-dev"
+  ],
+  [
+   "Newsletter for entrepreneurs",
+   "https://newsletter.marclou.com/"
+  ],
+  [
+   "CodeFast",
+   "https://codefa.st/"
+  ],
+  [
+   "ShipFast",
+   "https://shipfa.st/"
+  ],
+  [
+   "DataFast",
+   "https://datafa.st/"
+  ],
+  [
+   "Stalkr",
+   "https://www.stalkr.ai/"
+  ],
+  [
+   "ByeDispute",
+   "https://byedispute.com/"
+  ],
+  [
+   "IndiePage",
+   "https://indiepa.ge/"
+  ],
+  [
+   "ZenVoice",
+   "https://zenvoice.io/"
+  ],
+  [
+   "GamifyList",
+   "https://gamifylist.com/"
+  ],
+  [
+   "Unicorne",
+   "https://unicor.ne/"
+  ],
+  [
+   "WorkbookPDF",
+   "https://workbookpdf.com/"
+  ],
+  [
+   "HabitsGarden",
+   "https://habitsgarden.com/"
+  ],
+  [
+   "MailCheap",
+   "https://mailcheap.ai/"
+  ],
+  [
+   "Marc Lou",
+   "https://marclou.com"
+  ],
+  [
+   "ShipFast",
+   "https://shipfa.st?ref=trustmrr"
+  ]
+ ],
+ "footHeads": [
+  "Navigation",
+  "Browse startups",
+  "API",
+  "From the maker of TrustMRR",
+  "Built by",
+  "Marc Lou",
+  "with",
+  "System"
+ ],
+ "cats": [
+  [
+   "Artificial Intelligence",
+   "/category/ai"
+  ],
+  [
+   "SaaS",
+   "/category/saas"
+  ],
+  [
+   "Developer Tools",
+   "/category/developer-tools"
+  ],
+  [
+   "Fintech",
+   "/category/fintech"
+  ],
+  [
+   "Productivity",
+   "/category/productivity"
+  ],
+  [
+   "Marketing",
+   "/category/marketing"
+  ],
+  [
+   "E-commerce",
+   "/category/ecommerce"
+  ],
+  [
+   "Design Tools",
+   "/category/design-tools"
+  ],
+  [
+   "No-Code",
+   "/category/no-code"
+  ],
+  [
+   "Analytics",
+   "/category/analytics"
+  ],
+  [
+   "Education",
+   "/category/education"
+  ],
+  [
+   "Health & Fitness",
+   "/category/health-fitness"
+  ],
+  [
+   "Social Media",
+   "/category/social-media"
+  ],
+  [
+   "Content Creation",
+   "/category/content-creation"
+  ],
+  [
+   "Sales",
+   "/category/sales"
+  ],
+  [
+   "Customer Support",
+   "/category/customer-support"
+  ],
+  [
+   "Recruiting & HR",
+   "/category/recruiting"
+  ],
+  [
+   "Real Estate",
+   "/category/real-estate"
+  ],
+  [
+   "Travel",
+   "/category/travel"
+  ],
+  [
+   "Security",
+   "/category/security"
+  ],
+  [
+   "Artificial Intelligence",
+   "/category/ai"
+  ],
+  [
+   "SaaS",
+   "/category/saas"
+  ],
+  [
+   "Developer Tools",
+   "/category/developer-tools"
+  ],
+  [
+   "Fintech",
+   "/category/fintech"
+  ],
+  [
+   "Marketing",
+   "/category/marketing"
+  ],
+  [
+   "E-commerce",
+   "/category/ecommerce"
+  ],
+  [
+   "Productivity",
+   "/category/productivity"
+  ],
+  [
+   "Design Tools",
+   "/category/design-tools"
+  ],
+  [
+   "No-Code",
+   "/category/no-code"
+  ],
+  [
+   "Analytics",
+   "/category/analytics"
+  ]
+ ],
+ "html": {
+  "hero": "<div class=\"container mx-auto px-4 py-8 md:py-12 max-w-5xl\"><div class=\"text-center mb-8 md:mb-12\"><div class=\"flex items-center gap-2 justify-center mb-2 md:mb-6\"><img alt=\"TrustMRR\" loading=\"lazy\" width=\"100\" height=\"100\" decoding=\"async\" data-nimg=\"1\" class=\"size-5 md:size-6 object-cover shrink-0\" srcset=\"/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon_trans.5846c62e.png&amp;w=128&amp;q=75&amp;dpl=dpl_J2pyo7LoPwNpBvv8pLiYkuaFFBby 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon_trans.5846c62e.png&amp;w=256&amp;q=75&amp;dpl=dpl_J2pyo7LoPwNpBvv8pLiYkuaFFBby 2x\" src=\"/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon_trans.5846c62e.png&amp;w=256&amp;q=75&amp;dpl=dpl_J2pyo7LoPwNpBvv8pLiYkuaFFBby\" style=\"color: transparent;\"><p class=\"text-base md:text-2xl font-bold text-muted-foreground\">TrustMRR</p></div><h1 class=\"font-bold text-3xl md:text-5xl mb-3 tracking-tight\">The database of verified startup revenues</h1><p class=\"mx-auto mb-6 md:mb-10 max-w-2xl text-sm md:text-base text-muted-foreground\">200K monthly visitors browse SaaS, mobile apps, and digital businesses for acquisition on TrustMRR. <a class=\"underline underline-offset-4 hover:text-foreground\" href=\"/acquire\">Explore the marketplace</a></p><div class=\"flex flex-col sm:flex-row items-stretch justify-center gap-2 md:gap-4 max-w-lg mx-auto\"><div class=\"w-full sm:w-auto sm:flex-1\"><div class=\"relative w-full max-w-md\"><div class=\"relative\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-search absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-muted-foreground\" aria-hidden=\"true\"><path d=\"m21 21-4.34-4.34\"></path><circle cx=\"11\" cy=\"11\" r=\"8\"></circle></svg><input data-slot=\"input\" class=\"file:text-foreground placeholder:text-muted-foreground selection:bg-primary selection:text-primary-foreground dark:bg-input/30 border-input w-full min-w-0 rounded-md border px-3 py-1 text-base shadow-xs transition-[color,box-shadow] outline-none file:inline-flex file:h-7 file:border-0 file:bg-transparent file:text-sm file:font-medium disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 md:text-sm focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive pl-10 pr-10 bg-card h-10\" placeholder=\"&quot;SaaS over $10K/mo&quot;\" type=\"text\" value=\"\"></div></div></div><button data-slot=\"dialog-trigger\" data-variant=\"default\" data-size=\"lg\" class=\"cursor-pointer inline-flex shrink-0 items-center justify-center text-sm font-medium whitespace-nowrap transition-all outline-none focus-visible:border-ring focus-visible:ring-[3px] focus-visible:ring-ring/50 disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 [&amp;_svg]:pointer-events-none [&amp;_svg]:shrink-0 [&amp;_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/90 h-10 rounded-md px-6 has-[&gt;svg]:px-4 gap-2\" type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-_r_1_\" data-state=\"closed\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-plus h-5 w-5\" aria-hidden=\"true\"><path d=\"M5 12h14\"></path><path d=\"M12 5v14\"></path></svg>Add startup</button></div><div class=\"mt-4 flex flex-wrap items-center justify-center gap-x-3 gap-y-1 text-xs md:text-sm text-muted-foreground\"><a class=\"hover:text-foreground transition-colors\" href=\"/acquire\">Buy/sell</a><span class=\"text-muted-foreground/50\">·</span><a class=\"hover:text-foreground transition-colors\" href=\"/stats\">Stats</a><span class=\"text-muted-foreground/50\">·</span><a class=\"hover:text-foreground transition-colors\" href=\"/dashboard\">Dashboard</a></div><div class=\"mt-8 md:mt-12\"><div class=\"flex items-center justify-between mb-3 px-1\"><h2 class=\"text-sm font-semibold text-muted-foreground\">Recently listed</h2><a class=\"text-xs font-medium text-muted-foreground hover:text-foreground flex items-center gap-1 transition-colors\" href=\"/acquire\">View all<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\" fill=\"currentColor\" class=\"w-3 h-3\"><path fill-rule=\"evenodd\" d=\"M6.22 4.22a.75.75 0 0 1 1.06 0l3.25 3.25a.75.75 0 0 1 0 1.06l-3.25 3.25a.75.75 0 0 1-1.06-1.06L8.94 8 6.22 5.28a.75.75 0 0 1 0-1.06Z\" clip-rule=\"evenodd\"></path></svg></a></div><div class=\"flex gap-3 overflow-x-auto pb-4 -mx-4 px-4 md:mx-0 md:px-0 scrollbar-hide md:snap-x overscroll-x-contain\"><div class=\"snap-start flex-shrink-0\"><a class=\"flex flex-col border rounded-lg p-3 hover:border-primary/30 hover:bg-background transition-all cursor-pointer bg-background/60 group relative overflow-hidden w-[220px] shrink-0\" href=\"/startup/preloved-ai\"><div class=\"absolute top-0 right-0 bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-400 text-[9px] font-bold px-2 py-0.5 rounded-bl-lg\">FOR SALE</div><div class=\"flex items-center gap-3 mb-3 mt-1\"><div class=\"relative\"><img alt=\"PreLoved AI\" loading=\"lazy\" width=\"32\" height=\"32\" decoding=\"async\" data-nimg=\"1\" class=\"rounded-lg w-8 h-8 object-cover shrink-0 border shadow-xs\" srcset=\"/_next/image?url=https%3A%2F%2Fwww.appatar.io%2Fauroraapps.Vinted-Co-Pilot%2Flarge&amp;w=32&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fwww.appatar.io%2Fauroraapps.Vinted-Co-Pilot%2Flarge&amp;w=64&amp;q=75 2x\" src=\"/_next/image?url=https%3A%2F%2Fwww.appatar.io%2Fauroraapps.Vinted-Co-Pilot%2Flarge&amp;w=64&amp;q=75\" style=\"color: transparent;\"></div><div class=\"flex-1 min-w-0 text-left\"><h3 class=\"font-bold text-sm leading-tight truncate group-hover:text-primary transition-colors\">PreLoved AI</h3><p class=\"text-[10px] text-muted-foreground tru"
+ }
+}

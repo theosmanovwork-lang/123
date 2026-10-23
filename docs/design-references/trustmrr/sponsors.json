@@ -1,0 +1,86 @@
+{
+ "out": [
+  {
+   "side": "left",
+   "y": 193,
+   "href": "https://creem.io/?utm_source=trustmrr&utm_medium=referral&utm_campaign=sponsor_card",
+   "title": "CREEM",
+   "desc": "Sell Software globally, grow your revenue",
+   "img": "https://www.google.com/s2/favicons?domain=creem.io&sz=64",
+   "bg": "rgb(255, 230, 242)",
+   "w": 207.984375,
+   "h": 160.796875
+  },
+  {
+   "side": "left",
+   "y": 370,
+   "href": "https://fuseai.com/?utm_source=trustmrr&utm_medium=referral&utm_campaign=sponsor_card",
+   "title": "Fuse AI",
+   "desc": "10x revenue with AI agents built to find, enrich, and engage customers.",
+   "img": "https://www.google.com/s2/favicons?domain=fuseai.com&sz=64",
+   "bg": "rgb(249, 230, 255)",
+   "w": 207.984375,
+   "h": 160.796875
+  },
+  {
+   "side": "left",
+   "y": 546,
+   "href": "https://hugo.ai/?utm_source=trustmrr&utm_medium=referral&utm_campaign=sponsor_card",
+   "title": "Hugo AI",
+   "desc": "Hugo automates customer support, you ship features",
+   "img": "https://www.google.com/s2/favicons?domain=hugo.ai&sz=64",
+   "bg": "rgb(230, 241, 255)",
+   "w": 207.984375,
+   "h": 160.796875
+  },
+  {
+   "side": "right",
+   "y": 16,
+   "href": "https://higgsfield.ai/marclou?utm_source=trustmrr&utm_medium=referral&utm_campaign=sponsor_card",
+   "title": "Higgsfield",
+   "desc": "Create AI videos and images with Higgsfield",
+   "img": "https://www.google.com/s2/favicons?domain=higgsfield.ai&sz=64",
+   "bg": "rgb(230, 255, 240)",
+   "w": 207.984375,
+   "h": 160.796875
+  },
+  {
+   "side": "right",
+   "y": 193,
+   "href": "https://www.blotato.com/?utm_source=trustmrr&utm_medium=referral&utm_campaign=sponsor_card",
+   "title": "Blotato",
+   "desc": "Social Media API & MCP for Claude",
+   "img": "https://www.google.com/s2/favicons?domain=www.blotato.com&sz=64",
+   "bg": "rgb(255, 230, 242)",
+   "w": 207.984375,
+   "h": 160.796875
+  },
+  {
+   "side": "right",
+   "y": 370,
+   "href": "https://higgsfield.ai/marclou?utm_source=trustmrr&utm_medium=referral&utm_campaign=sponsor_card",
+   "title": "Higgsfield",
+   "desc": "Create AI videos and images with Higgsfield",
+   "img": "https://www.google.com/s2/favicons?domain=higgsfield.ai&sz=64",
+   "bg": "rgb(230, 255, 240)",
+   "w": 207.984375,
+   "h": 160.796875
+  },
+  {
+   "side": "right",
+   "y": 546,
+   "href": "https://chargeback.io/?utm_source=trustmrr&utm_medium=referral&utm_campaign=sponsor_card",
+   "title": "Chargeback.io",
+   "desc": "Prevent chargebacks on autopilot",
+   "img": "https://www.google.com/s2/favicons?domain=chargeback.io&sz=64",
+   "bg": "rgb(229, 236, 254)",
+   "w": 207.984375,
+   "h": 160.796875
+  }
+ ],
+ "wrap": "absolute inset-0",
+ "wrapParent": "relative h-full",
+ "wrapP2": "grid grid-rows-5 gap-4 p-4 h-full pointer-events-auto",
+ "cols": "",
+ "mobile": null
+}
