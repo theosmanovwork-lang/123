@@ -28,7 +28,7 @@ export function ProjectCard({ project }: { project: DemoProject }) {
   return (
     <article className="group relative flex w-[252px] shrink-0 flex-col overflow-hidden rounded-[10px] border bg-card p-3 transition-colors hover:border-primary/50">
       {sale ? (
-        <div className="absolute top-0 right-0 rounded-bl-lg bg-primary px-2 py-0.5 text-[9px] font-bold tracking-wide text-primary-foreground">
+        <div className="absolute top-0 right-0 rounded-bl-lg bg-primary px-2 py-0.5 text-label font-bold tracking-wide text-primary-foreground">
           ПРОДАЁТСЯ
         </div>
       ) : null}
@@ -38,7 +38,7 @@ export function ProjectCard({ project }: { project: DemoProject }) {
         </div>
         <div className="min-w-0 flex-1 text-left">
           <h3 className="truncate text-sm leading-tight font-bold">{project.name}</h3>
-          <p className="truncate text-[10px] text-muted-foreground">
+          <p className="truncate text-label text-muted-foreground">
             {project.category} · {project.provider}
           </p>
         </div>
@@ -50,7 +50,7 @@ export function ProjectCard({ project }: { project: DemoProject }) {
       <div className="mt-auto grid grid-cols-3 gap-2">
         {stats.map(([label, value]) => (
           <div key={label}>
-            <p className="mb-0.5 text-[9px] font-semibold tracking-wider text-muted-foreground uppercase">{label}</p>
+            <p className="mb-0.5 text-label font-semibold tracking-wider text-muted-foreground uppercase">{label}</p>
             <p className="font-mono text-[11px] font-bold whitespace-nowrap tabular">{label === "Рост" ? <Growth value={project.growth} /> : value}</p>
           </div>
         ))}

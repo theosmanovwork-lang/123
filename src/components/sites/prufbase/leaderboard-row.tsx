@@ -19,7 +19,7 @@ export function CatalogRow({ project, rank }: { project: DemoProject; rank: numb
             <div className="flex items-center gap-1.5">
               <span className="max-w-[104px] truncate font-medium sm:max-w-[200px] md:max-w-[220px]">{project.name}</span>
               {sale ? (
-                <span className="shrink-0 rounded-full bg-primary px-1.5 py-0.5 text-[9px] font-bold text-primary-foreground">
+                <span className="shrink-0 rounded-full bg-primary px-1.5 py-0.5 text-label font-bold text-primary-foreground">
                   ПРОДАЁТСЯ
                 </span>
               ) : null}
@@ -30,7 +30,7 @@ export function CatalogRow({ project, rank }: { project: DemoProject; rank: numb
       </td>
       <td className={`${cell} hidden w-[20%] md:table-cell`}>
         <div className="flex min-w-0 items-center gap-2">
-          <span className="flex size-6 shrink-0 items-center justify-center rounded-full border bg-secondary text-[10px] font-bold">
+          <span className="flex size-6 shrink-0 items-center justify-center rounded-full border bg-secondary text-label font-bold">
             {project.founder.charAt(0)}
           </span>
           <span className="truncate text-sm">{project.founder}</span>

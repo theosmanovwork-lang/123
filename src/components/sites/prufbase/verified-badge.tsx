@@ -9,7 +9,7 @@ export function VerifiedBadge({ provider, className = "" }: { provider?: Provide
       <span className="flex size-3.5 items-center justify-center rounded-full bg-primary text-primary-foreground">
         <Check className="size-2.5" strokeWidth={3.5} />
       </span>
-      <span className="text-[10px] font-semibold tracking-wide uppercase">Verified{provider ? ` · ${provider}` : ""}</span>
+      <span className="text-label font-semibold">Подтверждено{provider ? ` · ${provider}` : ""}</span>
     </span>
   );
 }

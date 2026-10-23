@@ -47,3 +47,9 @@ Evidence: `docs/design-references/linear/` (`info.json` = computed styles, CSS v
 
 Not copied: Berkeley Mono and Tiempos (commercial fonts; numbers keep JetBrains Mono) and Linear's fixed glass header (this page has no header).
 To change the accent colour, set `--primary`, `--ring`, `--chart-1` and `--brand-ink` (dark and light blocks) in `globals.css`.
+
+## UX audit pass (applied)
+Contrast, minimum text size (11px), tap targets (>=24px), form field border (3:1), mobile form height bug,
+quieter sponsor rails (xl+ only), wordmark without shield icon, trust line + consent text under the form,
+sticky CTA bar (`sticky-cta.tsx`), faster hero motion (0.7s, 25ms stagger). Verified with Playwright on
+1440/1280/1024/768/390: 0 contrast failures in dark theme, no text styles under 7:1 in dark, no horizontal scroll.

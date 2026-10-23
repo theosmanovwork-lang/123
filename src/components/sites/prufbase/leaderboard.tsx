@@ -45,7 +45,7 @@ export function Leaderboard() {
       </div>
       <div className="mt-4 flex items-center justify-center gap-2 text-center text-sm text-muted-foreground">
         <ShieldCheck className="hidden size-3.5 shrink-0 md:block" />
-        <p>
+        <p className="max-w-xl text-pretty">
           Так будет выглядеть каталог. Все проекты и цифры здесь — демо; настоящие карточки появятся, когда первые фаундеры
           подключат платёжных провайдеров.
         </p>

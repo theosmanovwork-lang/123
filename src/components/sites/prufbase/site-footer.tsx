@@ -16,9 +16,9 @@ export function SiteFooter() {
           {footerColumns.map((column) => (
             <div key={column.title}>
               <h3 className="mb-4 text-sm font-semibold">{column.title}</h3>
-              <nav className="flex flex-col gap-2">
+              <nav className="flex flex-col">
                 {column.links.map(([label, href]) => (
-                  <a key={label} href={href} className="text-sm text-muted-foreground transition-colors hover:text-foreground">
+                  <a key={label} href={href} className="inline-flex min-h-8 items-center text-sm text-muted-foreground transition-colors hover:text-foreground">
                     {label}
                   </a>
                 ))}

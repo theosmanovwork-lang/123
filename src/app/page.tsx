@@ -11,13 +11,15 @@ import { Providers } from "@/components/sites/prufbase/providers";
 import { Security } from "@/components/sites/prufbase/security";
 import { SiteFooter } from "@/components/sites/prufbase/site-footer";
 import { SponsorRails } from "@/components/sites/prufbase/sponsor-rails";
+import { StickyCta } from "@/components/sites/prufbase/sticky-cta";
 
 export default function Home() {
   return (
     <>
+      <StickyCta />
       <SponsorRails />
       <div className="bg-background">
-        <div className="lg:mx-[16.666%]">
+        <div className="xl:mx-[16.666%]">
           <main className="min-h-screen">
             <div className="container mx-auto max-w-5xl px-4 py-8 md:py-12">
               <Hero />

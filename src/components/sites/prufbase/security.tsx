@@ -17,9 +17,9 @@ export function Security() {
             <br />
             <span className="text-brand">GET</span> /refunds
             <br />
-            <span className="text-muted-foreground/60 line-through">POST /payments</span>
+            <span className="text-muted-foreground line-through decoration-muted-foreground/70">POST /payments</span>
             <br />
-            <span className="text-muted-foreground/60 line-through">POST /payouts</span>
+            <span className="text-muted-foreground line-through decoration-muted-foreground/70">POST /payouts</span>
           </p>
           <p className="mt-4 text-xs text-muted-foreground">
             Иллюстрация: коннектор обращается только к методам чтения. Названия эндпоинтов условные.

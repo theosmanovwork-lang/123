@@ -19,23 +19,23 @@ export function ProfilePreview({ project }: { project: DemoProject }) {
           </div>
           <div className="mb-4 grid grid-cols-2 gap-4">
             <div>
-              <p className="mb-1 text-[10px] font-semibold tracking-wider text-muted-foreground uppercase">MRR</p>
+              <p className="mb-1 text-label font-semibold tracking-wider text-muted-foreground uppercase">MRR</p>
               <p className="font-mono text-xl font-bold whitespace-nowrap tabular md:text-2xl">{formatRub(project.mrr)}</p>
             </div>
             <div>
-              <p className="mb-1 text-[10px] font-semibold tracking-wider text-muted-foreground uppercase">ARR</p>
+              <p className="mb-1 text-label font-semibold tracking-wider text-muted-foreground uppercase">ARR</p>
               <p className="font-mono text-xl font-bold whitespace-nowrap tabular md:text-2xl">{formatRub(project.mrr * 12)}</p>
             </div>
           </div>
           <Sparkline values={project.series} width={480} height={120} area className="h-28 w-full" label="MRR за последние 12 месяцев" />
-          <div className="mt-1 flex justify-between font-mono text-[10px] text-muted-foreground">
+          <div className="mt-1 flex justify-between font-mono text-label text-muted-foreground">
             {months.map((m) => (
               <span key={m}>{m}</span>
             ))}
           </div>
         </div>
         <div className="flex min-w-0 flex-col">
-          <p className="mb-2 text-[10px] font-semibold tracking-wider text-muted-foreground uppercase">Код для встраивания</p>
+          <p className="mb-2 text-label font-semibold tracking-wider text-muted-foreground uppercase">Код для встраивания</p>
           <pre className="overflow-x-auto rounded-[10px] border bg-background p-3 font-mono text-xs leading-relaxed text-muted-foreground">
             <code>{snippet}</code>
           </pre>

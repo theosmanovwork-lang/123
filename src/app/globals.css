@@ -14,6 +14,8 @@
   --font-weight-bold: 590;
   --default-transition-duration: 0.16s;
   --default-transition-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  --color-ink-2: var(--ink-2);
+  --color-field: var(--field-border);
   --color-cta: var(--cta);
   --color-cta-hover: var(--cta-hover);
   --color-cta-foreground: var(--cta-foreground);
@@ -75,7 +77,7 @@
   --secondary: #f4f2f4;
   --secondary-foreground: #1c1d1f;
   --muted: #f4f2f4;
-  --muted-foreground: #62666d;
+  --muted-foreground: #4a4e56;
   --accent: #eeedef;
   --accent-foreground: #1c1d1f;
   --destructive: oklch(0.577 0.245 27.325);
@@ -102,6 +104,9 @@
   --cta-foreground: #ffffff;
   /* readable indigo for text and chart strokes on this surface */
   --brand-ink: #1c1d1f;
+  /* AAA-level secondary text, and a 3:1 border for form fields (WCAG 1.4.11) */
+  --ink-2: #3a3c41;
+  --field-border: #7b808a;
 }
 
 .dark {
@@ -116,7 +121,7 @@
   --secondary: #141516;
   --secondary-foreground: #f7f8f8;
   --muted: #141516;
-  --muted-foreground: #8a8f98;
+  --muted-foreground: #9ca1ab;
   --accent: #ffffff0d;
   --accent-foreground: #f7f8f8;
   --destructive: oklch(0.704 0.191 22.216);
@@ -136,6 +141,8 @@
   --cta-hover: #ffffff;
   --cta-foreground: #08090a;
   --brand-ink: #d0d6e0;
+  --ink-2: #d0d6e0;
+  --field-border: #62666d;
 }
 
 @layer base {
@@ -168,6 +175,13 @@
   &::-webkit-scrollbar {
     display: none;
   }
+}
+
+/* Smallest allowed UI text: 11px (was 9-10px). */
+@utility text-label {
+  font-size: 0.6875rem;
+  line-height: 1.35;
+  letter-spacing: 0.02em;
 }
 
 @utility tabular {
@@ -203,8 +217,8 @@
 
 @utility reveal-word {
   display: inline-block;
-  animation: lin-reveal 1s cubic-bezier(0.25, 0.1, 0.25, 1) both;
-  animation-delay: calc(400ms + var(--i, 0) * 33ms);
+  animation: lin-reveal 0.7s cubic-bezier(0.25, 0.1, 0.25, 1) both;
+  animation-delay: calc(80ms + var(--i, 0) * 25ms);
 }
 
 /* Scroll reveal as progressive enhancement: browsers without view timelines just show the content. */

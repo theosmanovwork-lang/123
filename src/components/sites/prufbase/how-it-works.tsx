@@ -4,7 +4,7 @@ import { SectionHeading } from "./section-heading";
 const stageStyle: Record<string, string> = {
   "Первый релиз": "border-primary/50 text-brand",
   Следом: "border-border text-muted-foreground",
-  Позже: "border-border text-muted-foreground/70",
+  Позже: "border-border text-muted-foreground",
 };
 
 export function HowItWorks() {
@@ -28,7 +28,7 @@ export function HowItWorks() {
               <div className="mb-2 flex items-start justify-between gap-3">
                 <h4 className="text-sm font-bold">{feature.title}</h4>
                 <span
-                  className={`shrink-0 rounded-full border px-2 py-0.5 font-mono text-[10px] tracking-wide uppercase ${stageStyle[feature.stage]}`}
+                  className={`shrink-0 rounded-full border px-2 py-0.5 font-mono text-label tracking-wide uppercase ${stageStyle[feature.stage]}`}
                 >
                   {feature.stage}
                 </span>
