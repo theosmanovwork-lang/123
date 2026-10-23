@@ -1,5 +1,6 @@
 import { ShieldCheck } from "lucide-react";
 
+import { SplitText } from "./split-text";
 import { Wordmark } from "./wordmark";
 import { WaitlistForm } from "./waitlist-form";
 
@@ -16,11 +17,19 @@ export function Hero() {
         <ShieldCheck className="size-5 text-brand md:size-6" aria-hidden />
         <Wordmark className="text-base text-muted-foreground md:text-2xl" />
       </div>
-      <h1 className="mb-3 text-3xl font-bold tracking-tight text-balance md:text-5xl">Пруф вместо скриншота</h1>
-      <p className="mx-auto mb-6 max-w-2xl text-sm text-pretty text-muted-foreground md:mb-10 md:text-base">
-        Подключи read-only ключ от ЮKassa или CloudPayments — получи бейдж, который нельзя подделать. Первым 50 проектам —
-        бесплатно и без очереди.
-      </p>
+      <SplitText
+        as="h1"
+        className="mb-3 text-4xl leading-[1.05] font-semibold tracking-[-0.022em] text-balance md:text-[64px] md:leading-none"
+      >
+        Пруф вместо скриншота
+      </SplitText>
+      <SplitText
+        as="p"
+        start={4}
+        className="mx-auto mb-6 max-w-2xl text-sm text-pretty text-muted-foreground md:mb-10 md:text-[15px] md:leading-relaxed"
+      >
+        Подключи read-only ключ от ЮKassa или CloudPayments — получи бейдж, который нельзя подделать. Первым 50 проектам — бесплатно и без очереди.
+      </SplitText>
       <div id="waitlist" className="scroll-mt-24">
         <WaitlistForm source="hero" />
       </div>

@@ -10,7 +10,7 @@ const head = "h-10 px-2 align-middle font-medium whitespace-nowrap";
 export function Leaderboard() {
   const ranked = [...demoProjects].sort((a, b) => b.mrr - a.mrr);
   return (
-    <section id="catalog" className="scroll-mt-20">
+    <section id="catalog" className="reveal scroll-mt-20">
       <div className="flex flex-col gap-6 rounded-xl border bg-card py-6 pt-4 text-card-foreground">
         <div className="overflow-x-auto px-0 md:px-6 md:pt-2">
           <div className="mb-2 flex flex-col items-center justify-between gap-2 px-4 md:mb-4 md:flex-row md:gap-4 md:px-0">

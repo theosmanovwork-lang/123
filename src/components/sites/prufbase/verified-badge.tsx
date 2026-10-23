@@ -2,7 +2,7 @@ import { Check } from "lucide-react";
 
 import type { Provider } from "./data";
 
-/** The "seal": amber check + source of truth. */
+/** The "seal": accent check + source of truth. */
 export function VerifiedBadge({ provider, className = "" }: { provider?: Provider; className?: string }) {
   return (
     <span className={`inline-flex items-center gap-1 text-brand ${className}`}>

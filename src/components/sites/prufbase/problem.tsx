@@ -10,7 +10,7 @@ export function Problem() {
         Скриншот редактируется за 30 секунд в Figma. Посты на vc.ru — это слова. Prufbase показывает цифры, которые
         подтвердил платёжный провайдер.
       </SectionHeading>
-      <div className="grid gap-3 md:grid-cols-2 md:gap-4">
+      <div className="reveal grid gap-3 md:grid-cols-2 md:gap-4">
         <div className="rounded-xl border bg-card p-5">
           <p className="mb-4 flex items-center gap-2 text-sm font-semibold text-muted-foreground">
             <X className="size-4" /> Скриншот

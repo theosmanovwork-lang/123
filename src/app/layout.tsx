@@ -1,18 +1,25 @@
 import type { Metadata } from "next";
-import { Inter, JetBrains_Mono } from "next/font/google";
+import { JetBrains_Mono } from "next/font/google";
+import localFont from "next/font/local";
 import "./globals.css";
 
-const inter = Inter({ variable: "--font-inter", subsets: ["latin", "cyrillic"] });
+// Inter Variable (OFL), the same file linear.app serves; keeps the cv01/ss03 stylistic sets.
+const inter = localFont({
+  src: "./fonts/InterVariable.woff2",
+  variable: "--font-inter",
+  weight: "100 900",
+  display: "swap",
+});
 const jetbrainsMono = JetBrains_Mono({ variable: "--font-jetbrains-mono", subsets: ["latin", "cyrillic"] });
-
-// Restores a saved light choice before first paint; dark stays the default.
-const themeScript = `try{if(localStorage.getItem("prufbase-theme")==="light")document.documentElement.classList.remove("dark")}catch(e){}`;
 
 export const metadata: Metadata = {
   title: "Prufbase — Пруф вместо скриншота",
   description:
     "Витрина верифицированной выручки для российских инди-фаундеров. Подключи read-only ключ от ЮKassa или CloudPayments и получи бейдж, который нельзя подделать.",
 };
+
+// Restores a saved light choice before first paint; dark stays the default.
+const themeScript = `try{if(localStorage.getItem("prufbase-theme")==="light")document.documentElement.classList.remove("dark")}catch(e){}`;
 
 export default function RootLayout({
   children,

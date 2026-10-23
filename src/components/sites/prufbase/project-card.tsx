@@ -51,7 +51,7 @@ export function ProjectCard({ project }: { project: DemoProject }) {
         {stats.map(([label, value]) => (
           <div key={label}>
             <p className="mb-0.5 text-[9px] font-semibold tracking-wider text-muted-foreground uppercase">{label}</p>
-            <p className="font-mono text-xs font-bold whitespace-nowrap tabular">{label === "Рост" ? <Growth value={project.growth} /> : value}</p>
+            <p className="font-mono text-[11px] font-bold whitespace-nowrap tabular">{label === "Рост" ? <Growth value={project.growth} /> : value}</p>
           </div>
         ))}
       </div>

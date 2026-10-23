@@ -7,7 +7,16 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-inter), "SF Pro Display", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  /* Linear weights: 510 "medium", 590 "semibold", 680 "bold" */
+  --font-weight-medium: 510;
+  --font-weight-semibold: 510;
+  --font-weight-bold: 590;
+  --default-transition-duration: 0.16s;
+  --default-transition-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  --color-cta: var(--cta);
+  --color-cta-hover: var(--cta-hover);
+  --color-cta-foreground: var(--cta-foreground);
   --font-mono: var(--font-jetbrains-mono), ui-monospace, SFMono-Regular, Menlo, monospace;
   --font-heading: var(--font-sans);
   --color-sidebar-ring: var(--sidebar-ring);
@@ -50,74 +59,83 @@
 }
 
 /*
- * Prufbase tokens. Dark is home (#0B0C0E, Bloomberg-style density), light is the guest theme.
- * One accent (amber #F0A34E, the "seal"), many neutrals, radii <= 12px, almost no shadows.
+ * Theme borrowed from linear.app: #08090a canvas, #0f1011 panels, translucent white hairlines,
+ * indigo #5e6ad2 brand, Inter Variable (cv01, ss03) at weights 510/590, 160ms ease-out-quad transitions.
+ * Dark is home, light is the guest theme.
  */
 :root {
-  --background: #fafaf8;
-  --foreground: #0f1012;
-  --card: #ffffff;
-  --card-foreground: #0f1012;
+  --background: #ffffff;
+  --foreground: #1c1d1f;
+  --card: #f9f8f9;
+  --card-foreground: #1c1d1f;
   --popover: #ffffff;
-  --popover-foreground: #0f1012;
-  --primary: #f0a34e;
-  --primary-foreground: #0b0c0e;
-  --secondary: #f2f1ed;
-  --secondary-foreground: #0f1012;
-  --muted: #f2f1ed;
-  --muted-foreground: #5c606a;
-  --accent: #f2f1ed;
-  --accent-foreground: #0f1012;
+  --popover-foreground: #1c1d1f;
+  --primary: #5e6ad2;
+  --primary-foreground: #ffffff;
+  --secondary: #f4f2f4;
+  --secondary-foreground: #1c1d1f;
+  --muted: #f4f2f4;
+  --muted-foreground: #62666d;
+  --accent: #eeedef;
+  --accent-foreground: #1c1d1f;
   --destructive: oklch(0.577 0.245 27.325);
-  --border: rgb(0 0 0 / 0.1);
-  --input: rgb(0 0 0 / 0.12);
-  --ring: #f0a34e;
-  --chart-1: #f0a34e;
+  --border: #e4e2e4;
+  --input: #dcdbdd;
+  --ring: #7170ff;
+  --chart-1: #5e6ad2;
   --chart-2: oklch(0.556 0 0);
   --chart-3: oklch(0.439 0 0);
   --chart-4: oklch(0.371 0 0);
   --chart-5: oklch(0.269 0 0);
   --radius: 0.625rem;
-  --sidebar: #ffffff;
-  --sidebar-foreground: #0f1012;
-  --sidebar-primary: #f0a34e;
-  --sidebar-primary-foreground: #0b0c0e;
-  --sidebar-accent: #f2f1ed;
-  --sidebar-accent-foreground: #0f1012;
-  --sidebar-border: rgb(0 0 0 / 0.1);
-  --sidebar-ring: #f0a34e;
-  /* amber text needs a darker ink on light surfaces to stay readable */
-  --brand-ink: #9a5806;
+  --sidebar: #f9f8f9;
+  --sidebar-foreground: #1c1d1f;
+  --sidebar-primary: #5e6ad2;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #f4f2f4;
+  --sidebar-accent-foreground: #1c1d1f;
+  --sidebar-border: #e4e2e4;
+  --sidebar-ring: #7170ff;
+  /* Linear-style primary call to action: inverse pill */
+  --cta: #1c1d1f;
+  --cta-hover: #3a3c41;
+  --cta-foreground: #ffffff;
+  /* readable indigo for text and chart strokes on this surface */
+  --brand-ink: #4b57c4;
 }
 
 .dark {
-  --background: #0b0c0e;
-  --foreground: #eceef1;
-  --card: #121316;
-  --card-foreground: #eceef1;
-  --popover: #121316;
-  --popover-foreground: #eceef1;
-  --primary: #f0a34e;
-  --primary-foreground: #0b0c0e;
-  --secondary: #181a1e;
-  --secondary-foreground: #eceef1;
-  --muted: #181a1e;
-  --muted-foreground: #9a9ea8;
-  --accent: #181a1e;
-  --accent-foreground: #eceef1;
+  --background: #08090a;
+  --foreground: #f7f8f8;
+  --card: #0f1011;
+  --card-foreground: #f7f8f8;
+  --popover: #0f1011;
+  --popover-foreground: #f7f8f8;
+  --primary: #5e6ad2;
+  --primary-foreground: #ffffff;
+  --secondary: #141516;
+  --secondary-foreground: #f7f8f8;
+  --muted: #141516;
+  --muted-foreground: #8a8f98;
+  --accent: #ffffff0d;
+  --accent-foreground: #f7f8f8;
   --destructive: oklch(0.704 0.191 22.216);
-  --border: rgb(255 255 255 / 0.09);
-  --input: rgb(255 255 255 / 0.12);
-  --ring: #f0a34e;
-  --sidebar: #121316;
-  --sidebar-foreground: #eceef1;
-  --sidebar-primary: #f0a34e;
-  --sidebar-primary-foreground: #0b0c0e;
-  --sidebar-accent: #181a1e;
-  --sidebar-accent-foreground: #eceef1;
-  --sidebar-border: rgb(255 255 255 / 0.09);
-  --sidebar-ring: #f0a34e;
-  --brand-ink: #f0a34e;
+  --border: #ffffff14;
+  --input: #ffffff1a;
+  --ring: #7170ff;
+  --chart-1: #7170ff;
+  --sidebar: #0f1011;
+  --sidebar-foreground: #f7f8f8;
+  --sidebar-primary: #5e6ad2;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #141516;
+  --sidebar-accent-foreground: #f7f8f8;
+  --sidebar-border: #ffffff14;
+  --sidebar-ring: #7170ff;
+  --cta: #e5e5e6;
+  --cta-hover: #ffffff;
+  --cta-foreground: #08090a;
+  --brand-ink: #828fff;
 }
 
 @layer base {
@@ -131,9 +149,12 @@
     @apply font-sans;
     scroll-behavior: smooth;
   }
+  body {
+    font-feature-settings: "cv01", "ss03";
+  }
   ::selection {
-    background: var(--primary);
-    color: var(--primary-foreground);
+    background: color-mix(in lch, #5e6ad2, black 10%);
+    color: #fff;
   }
 }
 
@@ -151,6 +172,48 @@
 
 @utility tabular {
   font-variant-numeric: tabular-nums;
+}
+
+/* Linear's hero entrance: opacity + blur(10px) + translateY(20%), 1s, cubic-bezier(.25,.1,.25,1), ~33ms per word */
+@keyframes lin-reveal {
+  from {
+    opacity: 0;
+    filter: blur(10px);
+    transform: translateY(20%);
+  }
+  to {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateY(0);
+  }
+}
+
+@keyframes lin-reveal-soft {
+  from {
+    opacity: 0;
+    filter: blur(6px);
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateY(0);
+  }
+}
+
+@utility reveal-word {
+  display: inline-block;
+  animation: lin-reveal 1s cubic-bezier(0.25, 0.1, 0.25, 1) both;
+  animation-delay: calc(400ms + var(--i, 0) * 33ms);
+}
+
+/* Scroll reveal as progressive enhancement: browsers without view timelines just show the content. */
+@supports (animation-timeline: view()) {
+  .reveal {
+    animation: lin-reveal-soft linear both;
+    animation-timeline: view();
+    animation-range: entry 0% entry 55%;
+  }
 }
 
 @keyframes pb-fade-up {
@@ -172,7 +235,9 @@
   html {
     scroll-behavior: auto;
   }
-  .animate-fade-up {
-    animation: none;
+  .animate-fade-up,
+  .reveal-word,
+  .reveal {
+    animation: none !important;
   }
 }

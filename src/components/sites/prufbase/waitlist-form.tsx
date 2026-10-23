@@ -33,7 +33,7 @@ export function WaitlistForm({ source, className = "" }: { source: string; class
     return (
       <div
         role="status"
-        className={`mx-auto flex max-w-md items-center gap-3 rounded-[10px] border border-primary/40 bg-card px-4 py-3 text-left text-sm ${className}`}
+        className={`mx-auto flex max-w-md items-center gap-3 rounded-[10px] border border-ring/50 bg-card px-4 py-3 text-left text-sm ${className}`}
       >
         <Check className="size-4 shrink-0 text-brand" />
         <span>Ты в списке. Напишем, когда откроем подключение.</span>
@@ -54,14 +54,14 @@ export function WaitlistForm({ source, className = "" }: { source: string; class
           required
           autoComplete="email"
           placeholder="you@project.ru"
-          className="h-11 min-w-0 flex-1 rounded-[10px] border border-input bg-card px-3.5 text-base text-foreground shadow-none outline-none transition-[border-color,box-shadow] placeholder:text-muted-foreground focus-visible:border-ring focus-visible:ring-[3px] focus-visible:ring-ring/30 md:text-sm"
+          className="h-11 min-w-0 flex-1 rounded-lg border border-input bg-muted/60 px-3.5 text-base text-foreground shadow-none outline-none transition-[border-color,box-shadow,background-color] placeholder:text-muted-foreground focus-visible:border-ring focus-visible:bg-card focus-visible:ring-[3px] focus-visible:ring-ring/30 md:text-sm"
         />
         {/* Honeypot: invisible to people, tempting for bots. */}
         <input name="website" tabIndex={-1} autoComplete="off" aria-hidden className="absolute -left-[9999px] size-0 opacity-0" />
         <button
           type="submit"
           disabled={status === "sending"}
-          className="inline-flex h-11 shrink-0 cursor-pointer items-center justify-center gap-2 rounded-[10px] bg-primary px-5 text-sm font-semibold whitespace-nowrap text-primary-foreground transition-[filter,transform] outline-none hover:brightness-110 focus-visible:ring-[3px] focus-visible:ring-ring/40 active:scale-[0.98] disabled:cursor-wait disabled:opacity-70"
+          className="inline-flex h-11 shrink-0 cursor-pointer items-center justify-center gap-2 rounded-full bg-cta px-5 text-sm font-semibold whitespace-nowrap text-cta-foreground shadow-[0_8px_2px_0_#0000,0_5px_2px_0_#00000003,0_3px_2px_0_#0000000a,0_1px_1px_0_#00000012,0_0_1px_0_#00000014] transition-[background-color,transform] outline-none hover:bg-cta-hover focus-visible:ring-[3px] focus-visible:ring-ring/50 active:scale-[0.98] disabled:cursor-wait disabled:opacity-70"
         >
           {status === "sending" ? "Отправляем…" : "Встать в вейтлист"}
           {status === "sending" ? null : <ArrowRight className="size-4" />}

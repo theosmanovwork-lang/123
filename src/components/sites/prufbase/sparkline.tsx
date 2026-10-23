@@ -27,7 +27,7 @@ export function Sparkline({ values, width = 96, height = 28, area = false, class
       aria-label={label}
       aria-hidden={label ? undefined : true}
       preserveAspectRatio="none"
-      className={`text-primary ${className}`}
+      className={`text-brand ${className}`}
     >
       {area ? <path d={fill} fill="currentColor" opacity={0.12} /> : null}
       <path d={line} fill="none" stroke="currentColor" strokeWidth={1.5} strokeLinecap="round" strokeLinejoin="round" vectorEffect="non-scaling-stroke" />

@@ -9,7 +9,7 @@ export function Security() {
       <SectionHeading eyebrow="Безопасность" title="Ключ только читает. Точка.">
         Код физически не может списать или перевести деньги. Отзыв доступа — в один клик.
       </SectionHeading>
-      <div className="grid gap-3 md:grid-cols-[1fr_1.4fr] md:gap-4">
+      <div className="reveal grid gap-3 md:grid-cols-[1fr_1.4fr] md:gap-4">
         <div className="flex flex-col justify-center rounded-xl border border-primary/40 bg-card p-6">
           <KeyRound className="mb-4 size-6 text-brand" aria-hidden />
           <p className="font-mono text-sm leading-relaxed text-muted-foreground">
